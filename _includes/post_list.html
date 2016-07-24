@@ -1,0 +1,12 @@
+{% assign posts = site.posts | sort: date %}
+
+<div class="post-list">
+
+  {% for post in posts %}
+    <div class="post">
+      <span class="post__date">{{post.date | date: "%d %B, %y"}}</span>
+      <a class="post__title" href="{{post.url}}">{{post.title}}</a>
+    </div>
+  {% endfor %}
+
+</div>

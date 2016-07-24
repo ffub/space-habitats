@@ -12,27 +12,23 @@
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
 
     <!-- Styles -->
-    <link href="/assets/styles.css">
-
-    <style>
-
-    body {
-      font-family: "jaf-bernina-sans", sans-serif;
-    }
-
-    </style>
+    <link rel="stylesheet" href="/assets/styles.css">
 
   </head>
 
   <body>
 
-    <div class="header">
+    <div class="page">
 
-      {% include header.html %}
+      <div class="header">
+
+        {% include header.html %}
+
+      </div>
+
+      {{content}}
 
     </div>
-
-    {{content}}
 
   </body>
 

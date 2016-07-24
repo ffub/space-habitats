@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+{{page.content}}
+
+{% assign posts = site.posts | sort: date %}
+{% for post in posts %}
+<div><a href="{{post.url}}">{{post.title}}</a></div>
+{% endfor %}

@@ -1,6 +1,8 @@
+{% assign pages = site.pages | sort: 'position' %}
+
 <div class="primary-nav">
   <nav class="primary-nav__inside">
-    {% for page in site.pages %}
+    {% for page in pages %}
       <a class="primary-nav__item" href="{{page.url}}">{{page.title}}</a>
     {% endfor %}
   </nav>

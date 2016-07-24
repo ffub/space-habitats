@@ -4,4 +4,13 @@ layout: default
 
 {{content}}
 
-{% include post_list.html %}
+{% assign recent = site.posts | sort: -date | limit: 1 %}
+{% assign posts = site.posts | sort: date %}
+
+<h2>Most recent post</h2>
+
+{% include post_list.html collection=recent %}
+
+<h2>All posts</h2>
+
+{% include post_list.html collection=posts %}

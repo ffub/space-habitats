@@ -2,9 +2,6 @@
 title: Planets
 timezone: Europe/London
 collections:
-  chapter:
-    title: Chapters
-    output: true
   posts:
     title: Posts
     output: true

@@ -1,0 +1,6 @@
+---
+title: Test post 2
+date: 2016-07-24 20:54:00 +01:00
+---
+
+Another test post

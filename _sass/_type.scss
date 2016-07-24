@@ -1,10 +1,18 @@
 body {
-  font-family: "source-serif-pro", serif;
-  font-size: 21px;
+  font-family: "ff-meta-serif-web-pro", serif;
+  font-size: 20px;
+  line-height: 1.4;
   color: hsl(200, 2%, 30%);
 }
 
 h1, h2, h3 {
-  font-family: "jaf-bernino-sans", sans-serif;
   color: black;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+h2 {
+  font-size: 18px;
 }

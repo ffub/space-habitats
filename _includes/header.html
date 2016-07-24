@@ -1,9 +1,17 @@
 {% assign pages = site.pages | sort: 'position' %}
 
-<div class="primary-nav">
-  <nav class="primary-nav__inside">
-    {% for page in pages %}
-      <a class="primary-nav__item" href="{{page.url}}">{{page.title}}</a>
-    {% endfor %}
-  </nav>
+<div class="header">
+
+  <div class="header__name">{{site.title}}</div>
+
+  <div class="primary-nav">
+    <nav class="primary-nav__inside">
+      {% for page in pages %}
+        {% unless page.exclude %}
+          <a class="primary-nav__item" href="{{page.url}}">{{page.title}}</a>
+        {% endunless %}
+      {% endfor %}
+    </nav>
+  </div>
+
 </div>

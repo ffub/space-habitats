@@ -1,0 +1,8 @@
+<div class="primary-nav">
+  <nav class="primary-nav__inside">
+    <a class="primary-nav__item" href="/">Home</a>
+    {% for page in site.pages %}
+      <a class="primary-nav__item" href="{{page.url}}">{{page.title}}</a>
+    {% endfor %}
+  </nav>
+</div>

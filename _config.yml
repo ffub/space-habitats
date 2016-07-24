@@ -5,6 +5,7 @@ collections:
   chapter:
     title: Posts
     output: true
+    permalink: chapter
   posts:
     title: Posts
     output: true

@@ -1,0 +1,35 @@
+body {
+  margin: 60px;
+  text-align: center;
+}
+
+.page {
+  max-width: 700px;
+  text-align: left;
+  margin: 0 auto;
+}
+
+
+// Header
+
+.header__name {
+  font-weight: bold;
+  color: black;
+}
+
+.primary-nav {
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #ddd;
+}
+
+.primary-nav__item {
+  margin-right: 0.5em;
+}
+
+// Page list
+
+.post__date {
+  float: right;
+  color: gray;
+}

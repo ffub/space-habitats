@@ -1,6 +1,6 @@
 <div class="post-list">
 
-  {% for post in include.collection %}
+  {% for post in include.collection limit:include.limit reversed=reversed %}
     <div class="post">
       <span class="post__date">{{post.date | date: "%d %B, %y"}}</span>
       <a class="post__title" href="{{post.url}}">{{post.title}}</a>

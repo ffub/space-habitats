@@ -5,3 +5,19 @@ layout: default
 <h1>{{page.title}}</h1>
 
 {{page.content}}
+
+<hr>
+
+{% if page.previous %}
+<p>
+Previous post:
+<br><a href="{{page.previous.url}}">{{page.previous.title}}</a>
+</p>
+{% endif %}
+
+{% if page.next %}
+<p>
+Next post:
+<br><a href="{{page.next.url}}">{{page.next.title}}</a>
+</p>
+{% endif %}

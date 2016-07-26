@@ -1,5 +1,5 @@
 ---
-title: "Gerard O’Neill’s Big Idea"
+title: Gerard O’Neill’s Big Idea
 date: 2016-05-18 14:09:00 +01:00
 ---
 

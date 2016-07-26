@@ -3,13 +3,13 @@ title: Gerard O’Neill’s Big Idea
 date: 2016-05-18 14:09:00 +01:00
 ---
 
-In the mid 70s&nbsp; academic physicist Gerard O’Neill asked the question: how big could you build <a href="http://www.popularmechanics.com/space/deep-space/a11351/how-we-could-actually-build-a-space-colony-17268252/">free standing structures in space</a>, which you could rotate to provide artifical gravity (through centrifugal force)? <a href="http://cosmoquest.org/forum/archive/index.php/t-111850.html">The answer, it seems, is surprisingly large</a>; using steel, up to 6kms radius. Hence came the idea of O’Neill style habitats. These can be of several shapes:
+In the mid 70s  academic physicist Gerard O’Neill asked the question: how big could you build [free standing structures in space](http://www.popularmechanics.com/space/deep-space/a11351/how-we-could-actually-build-a-space-colony-17268252/), which you could rotate to provide artifical gravity (through centrifugal force)? The answer, it seems, is [surprisingly large](http://cosmoquest.org/forum/archive/index.php/t-111850.html); using steel, up to 6kms radius. Hence came the idea of O’Neill style habitats. These can be of several shapes:
 
-- Spherical maximises the internal volume for a given weight, but artificial gravity tapers off from the “equator”.  A better shape is a cylinder, all the internal surface area can be maintained at constant gravity. This shape is the basis of the O’Neill cylinder shown below. They would need to be built in pairs with rotation in opposite directions to maintain a net zero angular momentum.
+* Spherical maximises the internal volume for a given weight, but artificial gravity tapers off from the “equator”.  A better shape is a cylinder, all the internal surface area can be maintained at constant gravity. This shape is the basis of the O’Neill cylinder shown below. They would need to be built in pairs with rotation in opposite directions to maintain a net zero angular momentum.
 
 ![O'Neill Cylinder](https://3.bp.blogspot.com/-rbFxnBQo_e8/VzxkDxFA8rI/AAAAAAAAAFo/0YrGR1hMWpkrPV2eEvqetAeNXizfVqFMQCLcB/s640/IslandThree2.jpg)
 
-- A possible alternative is a torus.
+* A possible alternative is a torus.
 
 ![Torus](https://3.bp.blogspot.com/-rbFxnBQo_e8/VzxkDxFA8rI/AAAAAAAAAFo/0YrGR1hMWpkrPV2eEvqetAeNXizfVqFMQCLcB/s640/IslandThree2.jpg)
 
@@ -26,8 +26,10 @@ Would people want to live in a rotating can with no outside view? Some densely p
 
 Thus O’ Neill type colonies provide a virtually unlimited potential for human settlement in space, subject to some very big ifs:
 
-- If they can be made a safe, from cosmic radiation and meteorites
-- If the resources to construct them and make them habitable are available
-- If the potential cost is not too astronomical (forgive the pun)
+* If they can be made a safe, from cosmic radiation and meteorites
+
+* If the resources to construct them and make them habitable are available
+
+* If the potential cost is not too astronomical (forgive the pun)
 
 These issues will be addressed in subsequent posts.

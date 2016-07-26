@@ -5,7 +5,10 @@
   <head>
 
     <!-- Meta data -->
-    <title>{{site.title}}</title>
+    <title>
+      {% if page.url != "/" %}{{page.title}} - {% endif %}
+      {{site.title}}
+    </title>
 
     <!-- Fonts -->
     <script src="https://use.typekit.net/auh6nhi.js"></script>

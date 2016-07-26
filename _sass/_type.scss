@@ -1,12 +1,14 @@
 body {
-  font-family: "ff-meta-serif-web-pro", serif;
-  font-size: 20px;
-  line-height: 1.4;
-  color: hsl(200, 2%, 30%);
+  font-family: "freight-sans-pro", serif;
+  font-size: 21px;
+  line-height: 1.45;
+  color: hsl(200, 10%, 30%);
 }
 
 h1, h2, h3 {
   color: black;
+  font-family: "freight-sans-pro";
+  font-weight: bold;
 }
 
 h1 {
@@ -15,4 +17,8 @@ h1 {
 
 h2 {
   font-size: 20px;
+}
+
+a {
+  color: black;
 }

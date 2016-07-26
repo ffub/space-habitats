@@ -1,16 +1,10 @@
 ---
 title: Space tourism
 date: 2016-06-30 17:54:00.002000000 +01:00
-layout: post
-author: 'O''Neill Fan '
-modified_time: '2016-06-30T18:08:06.273+01:00'
-thumbnail: https://2.bp.blogspot.com/-Xw2SjmP-LOw/V3VOup5vaKI/AAAAAAAAAJU/Jd9dDywV94kO-jnmgNj3CsaZRagyq0pWgCLcB/s72-c/space%2Bhabitat%2Bblog%2Bchart%2BLEO%2Bcost.jpg
-blogger_id: tag:blogger.com,1999:blog-1946778954329503711.post-6423355275480527827
-blogger_orig_url: http://spacehabitats.blogspot.com/2016/06/space-tourism-build-first-small-habitat.html
 ---
 
 Build the first small habitat, and put it in low earth orbit: would there be a market for visitors? A once-in-a-lifetime trip to space, see the Earth from above, gambol away in a weightless play area (no refund if nauseous)… of course there would, it depends on the cost. Forget bed-and–board while you are there, or even the return flight (which has a minimal energy cost), here are the costs for a launch to LEO per passenger, for a 15 ton module carrying 30 passengers:
 
-![](https://2.bp.blogspot.com/-Xw2SjmP-LOw/V3VOup5vaKI/AAAAAAAAAJU/Jd9dDywV94kO-jnmgNj3CsaZRagyq0pWgCLcB/s640/space%2Bhabitat%2Bblog%2Bchart%2BLEO%2Bcost.jpg)
+![Costs per passenger from Earth to Low Earth Orbit](https://2.bp.blogspot.com/-Xw2SjmP-LOw/V3VOup5vaKI/AAAAAAAAAJU/Jd9dDywV94kO-jnmgNj3CsaZRagyq0pWgCLcB/s640/space%2Bhabitat%2Bblog%2Bchart%2BLEO%2Bcost.jpg)
 
  Only at $100/kg value does it become a market beyond the very rich few, and even so, not mass tourism (one has to get launch costs down eventually to that sort of value or lower, to enable emigration to space anyway).

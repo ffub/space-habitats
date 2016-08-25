@@ -1,6 +1,6 @@
 ---
 title: National Prestige – and Military Strategy
-date: 2016-06-30 20:11:00.001000000 +01:00
+date: 2016-06-30 20:11:00 +01:00
 ---
 
 Recently many of the developments in rocketry and launches have been from private entrepreneurs. These, however, have been funded by billionaires who made their money elsewhere (Elon Musk, Jeff Bezos, Richard Branson) and they are mainly selling into the well established communications satellites market – and the means to establish this were initially developed by states, with prestige and military considerations uppermost, in the same way that the original internet was developed by the US military.
@@ -13,7 +13,7 @@ Could another Cold War arise, which would drive another round of manned space de
 
 Fortunately one does not need the extreme and dangerous levels of tension of the pre 1989 Cold War. In an increasingly multipolar world, the [normal levels of competition and suspicion][spacex-announcement] between states or alliances of states may suffice. Even between so called allies - a major motivation for the EU to develop the Galileo global positioning system is not economic, but to [reduce dependence on the US’s GPS][european-gps] system. All the major powers have space programmes (USA, EU, Russia, China, Japan).
 
-Then there are strategic risks. A salvo of missiles would be enough to knock out GPS – to the discomfort of the world, but to the even greater discomfort of the US military. A space station with an anti-missile system would be a protection against this, but that in turn would need to be protected, leading to a space arms race. While war is the most ghastly human activity it does tend to stimulate technical developments; one must hope that, as in the 50s and 60s, conflict short of war will do the same.
+Then there are strategic risks. A salvo of missiles would be enough to knock out GPS – to the discomfort of the world, but to the even greater discomfort of the US military. A space station with an anti-missile system would be a protection against this, but that in turn would need to be protected, leading to a space arms race. While war is the most ghastly human activity it does tend to stimulate technical developments; one must hope that, as in the 50s and 60s, conflict short of global war will do the same.
 
 Thus states will commit to long term space programmes, with motivations beyond short term economics. That does not necessarily mean developing space habitats, although when one country does it, it will spur others “We must not let our enemies dominate space!”. To kick start the process, one needs another motivation, to be discussed in the next post.
 

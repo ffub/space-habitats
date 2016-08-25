@@ -10,6 +10,7 @@ Perfecting rockets is like perfecting sailing ships or the steam locomotive. The
 > The engine’s secret is its heat-exchanger technology that can can cool air entering it from 1,000°C to minus 150°C in just one hundredth of a second whilst preventing ice from forming within the unit. This allows the engine to switch in flight from air-breathing mode at Mach 5.5—twice as fast as a jet—to that of a rocket engine, reaching Mach 25, or 7.5 km per second.
 
 Even this proposed vehicle has propellant for 80% of its weight, and the payload is only 5% of the vehicle weight – and that is only to low earth orbit. Moreover Skylon (image below) would cost over $1 billion to develop – as much as a major airliner, but without the volume of sales to recoup the cost.
+![skylon.jpg](/uploads/skylon.jpg)
 
 [spacex]: http://spaceflightnow.com/2015/12/22/watch-spacex-recover-booster/
 [skylon]: https://en.wikipedia.org/wiki/Skylon_(spacecraft)

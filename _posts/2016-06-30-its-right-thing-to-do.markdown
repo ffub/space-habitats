@@ -1,6 +1,6 @@
 ---
 title: It’s the right thing to do
-date: 2016-06-30 20:27:00.003000000 +01:00
+date: 2016-06-30 20:27:00 +01:00
 ---
 
 So, what would motivate states to go down the long, expensive and slightly crazy path to build space habitats? There would have to be public pressure to do so.

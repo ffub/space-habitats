@@ -1,6 +1,6 @@
 ---
 title: Getting Around in Space
-date: 2016-05-28 21:36:00.003000000 +01:00
+date: 2016-05-28 21:36:00 +01:00
 ---
 
 You need a lot less energy to move around in space than to escape the Earth’s gravity, especially if space elevators are built on the Moon and Mars, for resource extraction. You can travel for “free” with a [lightsail][lightsail], and for little more with [ion propulsion][ion-propulsion], but acceleration is agonisingly slow, especially with any significant load. If it’s proved, the [EM Drive][em-drive], but I remain suspicious  of something which contests basic physical laws (remember [cold fusion][cold-fusion]?).

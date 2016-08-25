@@ -1,6 +1,6 @@
 ---
 title: Costs are acceptable, but fresh air isn’t free
-date: 2016-06-13 14:30:00.001000000 +01:00
+date: 2016-06-13 14:30:00 +01:00
 ---
 
 ![Total cost of a 2 cylinder habitat](https://2.bp.blogspot.com/-7geTAXV0yvU/V16y1cNYDlI/AAAAAAAAAHw/DUagtEFN8Bw2V9UHeV2n8RQ-_OPWodAnQCLcB/s1600/space%2Bhabitat%2Bblog%2Bchart%2B4.jpg)
@@ -14,13 +14,10 @@ The numbers look much better with the reduced air needs of the annular cylinder 
 The total cost of the annular cylinder model is $136 billion. Yes, it is a lot. To put that into perspective:
 
 - China in the past decade has spent some $300 billion building high speed railways
-- A new airport suggested by London’s Mayor to replace Heathrow would cost $100 billion (which is why it won’t get built…)
+- A new airport suggested by London’s former Mayor to replace Heathrow would cost $100 billion (which is why it won’t get built…)
 - The US defence budget in 2015 was $600 billion, much of it superfluous.
 - 1% of world GDP (that is, $780 billion) would cover 6 habitats a year. At a conservative 3% a year growth for the next fifty years, 1% of world GDP  in 2066  would cover the costs of building 25 habitats a year.
 
 The annular cylinder model costs per inhabitant are around 3 times the installed capital costs per US inhabitant. High, but not out of sight, and in the same ballpark as capital costs per person in places like New York and its commuter heartland, or South East England, where residential and infrastructure costs are much higher than the national averages.
 
-
-
-
-So habitats are viable and the cost is not astronomical (forgive the pun). Moreover they are initial costs, and depreciate over time.  But these calculations, as well as purely indicative,  are long run, assuming an established mining, manufacturing and transport infrastructure in space. How on Earth (or rather, Space) do we get there? As the aprocryphal Irishman replied when asked for directions: “If I were you, I wouldn’t start from here.”
+So habitats are viable and the cost is not astronomical (forgive the pun). Moreover they are initial costs, and depreciate over time.  But these calculations, as well as purely indicative,  are long run, assuming an established mining, manufacturing and transport infrastructure in space. How on Earth (or rather, Space) do we get there? As the apocryphal Irishman replied when asked for directions: “If I were you, I wouldn’t start from here.”

@@ -4,6 +4,7 @@ date: 2016-05-14 18:35:00 +01:00
 ---
 
 The only way to get launch costs down to low levels for transporting people, is to impart a large part, or even all, of the kinetic energy from a fixed point on earth or in orbit, to avoid moving all that fuel.
+
 Several options have been suggested. The most publicised is the Space Elevator.In theory very low cost transport, no more than an intercontinental flight.  However the cable has to be 36,000 kms long (!), any break destroys it (with unpleasant consequences for those below…) and we don’t currently have any materials strong enough. Carbon nano tubes might do it, but even they would be near a structural limit.
 
 ![A space elevator](/uploads/space elevator.jpg)
@@ -12,7 +13,8 @@ The alternative, feasible with current materials is the Launch Loop. However str
 
 ![Lofstrom](/uploads/lofstrom.png)
 
-For both these technologies, what’s not to like :(   They do not conform to the sensible path of developing a radical new technology – start modestly and build up as you learn from experience. Fortunately there is a potential technology which permits this, and it is feasible, although the cost reduction potential is smaller, as discussed in the next post.
+The other problem with these technologies is that, at first glance, they do not conform to the sensible path of developing a radical new technology – start modestly and build up as you learn from experience. Keith Lofstrom, the inventor of the Launch Loop concept, has suggested that [smaller scale loops could be developed to store electrical energy](http://launchloop.com/PowerLoop), an alternative to batteries or flywheels, potentially very useful with renewable energy which is intermittent. 
 
+As regards the devlopment of Space Elevators, there is a potential technology which permits gradual development, and it is feasible, although the cost reduction potential is smaller, as discussed in the next post.
 
 If we ever  do mine the Moon or Mars, however, space elevators can be built with existing materials, as the escape velocities are lower (8,600 and 18,100 kms/hour respectively). Indeed on the Moon you would not need a launch loop with that troublesome rotor to stay above the atmosphere, because there isn’t any. A launch ramp on the ground with linear motors will do. If accelerating at 3g (the maximum that is comfortable for normal human beings) then a 700km ramp would reach escape velocity, could be shorter if just transporting minerals or goods and a higher acceleration is acceptable. Such a ramp would fit in to one of the lunar maria (the flat bits of the Moon).

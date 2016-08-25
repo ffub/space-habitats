@@ -4,4 +4,4 @@ position: 0
 layout: home
 ---
 
-This is the home page
+A road map on building colonies (self supporting habitats) in outer space

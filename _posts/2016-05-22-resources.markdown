@@ -5,11 +5,11 @@ date: 2016-05-22 17:44:00 +01:00
 
 I am assuming that resources will be sourced from nearby locations in the solar system (with the Moon as first choice) for three reasons:
 
-- The cost of getting anything in bulk up from Earth is very high
+* The cost of getting anything in bulk up from Earth is very high
 
-- Environmental: a wish to expand mankind’s resources, not deplete the Earth further.
+* Environmental: a wish to expand mankind’s resources, not deplete the Earth further.
 
-- Anything beyond Mars is expensive, long round trip and energy consumption.
+* Anything beyond Mars is expensive, long round trip and energy consumption.
 
 This section is based on current knowledge of Moon and Mars geology, which is still quite limited. The odds are that more resources will be discovered than are currently known.
 

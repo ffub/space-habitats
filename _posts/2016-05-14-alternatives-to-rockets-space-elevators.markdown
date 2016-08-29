@@ -9,7 +9,7 @@ Several options have been suggested. The most publicised is the Space Elevator.I
 
 ![A space elevator](/uploads/space elevator.jpg)
 
-The alternative, feasible with current materials is the Launch Loop. However stringing a 2000kms long system, anchored under the sea – impervious to storms or collisions from stray ships? Any break, destroys it, not simple to patch up. Above all, it is kept up by a rotor travelling in a vacuum tube at faster than escape velocity. If anything goes wrong (and it will), it has the kinetic energy of a small nuclear bomb…
+The alternative, feasible with current materials is the Launch Loop. However stringing a 2000kms long system, anchored under the sea – impervious to storms or collisions from stray ships? Any break, destroys it, not simple to patch up. Above all, it is kept up by a rotor travelling in a vacuum tube at faster than escape velocity. If anything goes wrong a huge amount of kinetic energy is released at one go. 
 
 ![Lofstrom](/uploads/lofstrom.png)
 

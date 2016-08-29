@@ -9,6 +9,6 @@ This document gives my thoughts on how and why we could build colonies in space,
 You can contact me, or leave comments, by email at oneillfan9@gmail.com
 
 
-©Philip Tomlinson 2016. All rights reserved. 
+  ©Philip Tomlinson 2016. All rights reserved. 
 
 

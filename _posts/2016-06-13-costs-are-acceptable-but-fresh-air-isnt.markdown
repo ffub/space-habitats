@@ -3,7 +3,7 @@ title: Costs are acceptable, but fresh air isn’t free
 date: 2016-06-13 14:30:00 +01:00
 ---
 
-![habit costs 3 jpg.jpg](/uploads/habit%20costs%203%20jpg.jpg)
+![habit costs 4 .jpg](/uploads/habit%20costs%204%20.jpg)
 
 The startling thing in the plain cylinder model is the cost of the atmosphere. We tend to take the air around us for granted, and ignore it. I have assumed 80% of sea level air pressure on Earth ( that is, 0.8 bar) which is like living at 2000 metres altitude, which doesn’t cause people problems (at the 4000m height of Tibet or the Bolivian altiplano it is only 60% of sea level, yet that does cause altitude sickness). Yet the air to fill the habitat (that is, 565 cubic kilometres) still weighs no less than 434 million tonnes, and costs $43 billion. I have a renewed respect for our atmosphere.
 

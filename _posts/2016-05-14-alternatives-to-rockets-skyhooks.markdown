@@ -3,7 +3,7 @@ title: 'Alternatives to Rockets: Skyhooks'
 date: 2016-05-14 18:51:00 +01:00
 ---
 
-Things get much easier if a space elevator cable does not reach the ground, then it can be constructed with current materials. This is the Skyhook concept. A supersonic vehicle (wholly or partly air breathing) would connect with a tether hanging down from a satellite  (connecting at a speed of Mach 10 or higher? It's relative velocity that matters, and in flight refuelling at high speed is well proven).
+Things get much easier if a space elevator cable does not reach the ground, then it can be constructed with current materials. This is the [Skyhook](https://en.wikipedia.org/wiki/Skyhook_(structure)) concept. A supersonic vehicle (wholly or partly air breathing) would connect with a tether hanging down from a satellite  (connecting at a speed of Mach 10 or higher? It's relative velocity that matters, and in flight refuelling at high speed is well proven).
 
 The two options are a fixed tether ( basically, a short space elevator) along which the space ship would crawl up (how? Linear motors?). The alternative is a rotating tether, which would slingshot the spaceship into orbit, as shown in the diagram below:
 

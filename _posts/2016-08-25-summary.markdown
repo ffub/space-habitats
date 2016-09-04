@@ -19,7 +19,7 @@ date: 2016-08-25 11:21:00 +01:00
 
 * Micrometeorites will continuously bombard a habitat, but experience with the International Space Station suggest that they will do little damage. The risk of being struck by a larger meteorite is very low, and they may be detected and deflected. The problem might be worse in Low Earth Orbit (LEO) with the amount of space junk up there. 
 
-* The radiation problem is more serious. Surrounding the habitat  with a water jacket and  a lightweight plastic (such as polythene) would provide sufficient protection in LEO, but the weight of such sheilding required in deep space would be prohibitive. A magnetic field mimicking the Van Allen belts which surround the Earth would do it, and research on this is promising. 
+* The radiation problem is more serious. Surrounding the habitat  with a water jacket and  a lightweight plastic (such as polythene) would provide sufficient protection in LEO, but the weight of such shielding required in deep space would be prohibitive. A magnetic field mimicking the Van Allen belts which surround the Earth would do it, and research on this is promising. 
 
 * I have shown some calculations below which estimate construction costs for a large scale habitat, capable of supporting 200,000 people with space for agriculture and recreation. They are very rough and ready, but give an order of magnitude – about 2-3 times the average installed capital costs per head of a developed country, comparable to that of major metropolitan areas on Earth. 
 

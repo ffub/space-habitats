@@ -16,3 +16,5 @@ Moreover, there seems no chance of getting launch costs down to such a low level
 Not only are the above costs way too high, this approach does nothing to develop space manufacturing. There is a better route, to be discussed in the next post.
 
 Note that cumulative costs (launch, assembly, maintenance) of the International Space Station is over $100 billion to date – and that only weighs 420 tons, and the living area is barely the size of a suburban house.
+
+

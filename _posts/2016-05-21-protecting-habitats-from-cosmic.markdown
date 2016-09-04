@@ -15,7 +15,9 @@ In deep space, fully exposed to the solar wind and cosmic flux, however, it is a
 
 Fortunately there is a way round this - the possibility of creating a magnetic field around  a habitat, a [miniature version of the Van Allen belts][mini-van-allen-belts].
 
-If we are to create habitats in deep space, it is essential to resolve this, otherwise one is restricted to LEO. However, the prospects are promising, as the technology of superconducting magnets has advanced considerably, and without it a safe mission to Mars seems impossible.   
+If we are to create habitats in deep space, it is essential to resolve this, otherwise one is restricted to LEO. However, the prospects are promising, as the technology of superconducting magnets has advanced considerably, and without it a safe mission to Mars seems impossible.  
+
+Of course one could avoid the problem by [putting habitats in LEO](http://space.alglobus.net/papers/Easy.pdf). It also makes it much easier to get to them. Indeed it might the best site for early habitats. However space in Low Earth Orbit is already getting crowded, especially in the ideal orbits around the Equator, so it limits the potential for expansion. Also habitats in LEO will tend to slowly spiral back towards Earth. To push them back would require enormous effort for large habitat - and the larger the habitat, the more stable the ecosystem, and the more diverse and interesting both human life and nature will tend to be. 
 
 
 [van-allen-belts]: https://en.wikipedia.org/wiki/Van_Allen_radiation_belt

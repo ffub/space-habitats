@@ -5,6 +5,8 @@ date: 2016-06-02 23:55:00 +01:00
 
 One has no idea what long term future inflation and productivity gains will be, so unit costs are based on current (Earth) prices and costs.
 
+A key assumption is that if the habitat is in deep space (e.g. at L4 or L5) a strong magnetic field is generated around each cylinder to deflect solar wind and cosmic rays. The water jacket and plastic shell assumed are secondary protection, similar to the absorptive role of the atmosphere on Earth. If the habitat is in Low Earth Orbit, no magnetic field would be required. 
+
 **Steel**: 10mm plate for the outer shell. I have assumed a price  a bit below current market prices on Earth, given that there is free metallic iron on the Moon, so $200/ton. For the annular cylinder model, I have also assumed steel for the “roof” shell, as it is the cheapest option. This needs to be airtight, but otherwise no structural load or radiation protection (it is entirely inside the cylinder) so have assumed 5mm plate (typical hot rolled steel sheet is 2-3mm gauge).
 
 **Plastic**: 20mm plate assumed for inner shell, pretty robust but it has to bear the mass of 2 metres of soil. Current market price for high density polyethylene assumed, $1400/ton.

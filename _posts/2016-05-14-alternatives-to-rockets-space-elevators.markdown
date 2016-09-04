@@ -5,11 +5,11 @@ date: 2016-05-14 18:35:00 +01:00
 
 The only way to get launch costs down to low levels for transporting people, is to impart a large part, or even all, of the kinetic energy from a fixed point on earth or in orbit, to avoid moving all that fuel.
 
-Several options have been suggested. The most publicised is the Space Elevator.In theory very low cost transport, no more than an intercontinental flight.  However the cable has to be 36,000 kms long (!), any break destroys it (with unpleasant consequences for those below…) and we don’t currently have any materials strong enough. Carbon nano tubes might do it, but even they would be near a structural limit.
+Several options have been suggested. The most publicised is the [Space Elevator](https://en.wikipedia.org/wiki/Space_elevator).In theory very low cost transport, no more than an intercontinental flight.  However the cable has to be 36,000 kms long (!), any break destroys it (with unpleasant consequences for those below…) and we don’t currently have any materials strong enough. Carbon nano tubes might do it, but even they would be near a structural limit.
 
 ![A space elevator](/uploads/space elevator.jpg)
 
-The alternative, feasible with current materials is the Launch Loop. However stringing a 2000kms long system, anchored under the sea – impervious to storms or collisions from stray ships? Any break, destroys it, not simple to patch up. Above all, it is kept up by a rotor travelling in a vacuum tube at faster than escape velocity. If anything goes wrong a huge amount of kinetic energy is released at one go. 
+The alternative, feasible with current materials is the [Launch Loop](https://en.wikipedia.org/wiki/Launch_loop). However stringing a 2000kms long system, anchored under the sea – impervious to storms or collisions from stray ships? Any break, destroys it, not simple to patch up. Above all, it is kept up by a rotor travelling in a vacuum tube at faster than escape velocity. If anything goes wrong a huge amount of kinetic energy is released at one go. 
 
 ![Lofstrom](/uploads/lofstrom.png)
 

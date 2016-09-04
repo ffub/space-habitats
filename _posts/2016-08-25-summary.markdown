@@ -15,10 +15,13 @@ date: 2016-08-25 11:21:00 +01:00
 
 •There is an alternative. In the mid 70s academic physicist Gerard O’Neill asked the question: how big could you build free standing structures (cylinder or torus) in space, which you could rotate to provide artificial gravity (through centrifugal force)? The answer, it seems, is surprisingly large; using steel, up to 6kms radius.
 
-• There are two major objections to O’Neill style habitats: exposure to cosmic radiation and meteorites, and that the cost of building them would be prohibitive:
-  *  In fact, surrounding the habitat  with a water jacket and  a lightweight plastic (such as polythene) would provide sufficient protection, and could be enhanced with a magnetic field mimicking the Van Allen belts which surround the Earth. 
-   * Micrometeorites will continuously bombard a habitat, but experience with the International Space Station suggest that they will do little damage. The risk of being struck by a larger meteorite is very low, and they may be detected and deflected. 
-   * I have shown some calculations below which estimate construction costs for a large scale habitat, capable of supporting 200,000 people with space for agriculture and recreation. They are very rough and ready, but give an order of magnitude – about 2-3 times the average installed capital costs per head of a developed country, comparable to that of major metropolitan areas on Earth. 
+• There are two major objections to O’Neill style habitats: exposure to cosmic radiation and meteorites, and that the cost of building them would be prohibitive.
+
+* Micrometeorites will continuously bombard a habitat, but experience with the International Space Station suggest that they will do little damage. The risk of being struck by a larger meteorite is very low, and they may be detected and deflected. The problem might be worse in Low Earth Orbit (LEO) with the amount of space junk up there. 
+
+* The radiation problem is more serious. Surrounding the habitat  with a water jacket and  a lightweight plastic (such as polythene) would provide sufficient protection in LEO, but the weight of such sheilding required in deep space would be prohibitive. A magnetic field mimicking the Van Allen belts which surround the Earth would do it, and research on this is promising. 
+
+* I have shown some calculations below which estimate construction costs for a large scale habitat, capable of supporting 200,000 people with space for agriculture and recreation. They are very rough and ready, but give an order of magnitude – about 2-3 times the average installed capital costs per head of a developed country, comparable to that of major metropolitan areas on Earth. 
 
 • The cost calculations, however, assume an established infrastructure of manufacturing and transport in space. How do we get there? One way forward is suggested by the European Space Agency’s ideas for building a small Moon base. Essentially, get a robot to do it, including using 3D printing techniques. This can be taken further, to the next stage of getting a robot to construct processing equipment to produce metals, silicon for solar panels, and so on , for assembling in space for a small habitat which would then construct the parts for a larger habitat, and so on. 
 

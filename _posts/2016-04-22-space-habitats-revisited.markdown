@@ -15,6 +15,6 @@ Yet space travel not only has a romantic appeal (“the last frontier”), if fe
 
 - It’s exciting. Forget all the bad news in the media, in reality life in the developed world for many is safe and boring, and there is little scope for heroism. Plenty of people would want to do it.
 
-The succeeding posts will outline ideas on a feasible path to colonise space. I will only employ known physics, and reasonable projections of current technology. So no warp drives.
+The succeeding posts will outline ideas on a feasible path to colonise space. I will only employ known physics, and reasonable projections of current technology. So no warp drives, and no super-intelligent robots (in any case, this is about getting humans into space, not AIs). 
 
 [1]: https://books.google.co.uk/books?id=xW_T4jV9mFAC&pg=PA132&lpg=PA132&dq=INTENSLI+EEGER&source=bl&ots=azMPOQ2lyz&sig=ehd3QZ_6tzLH6Wv-1NvQcVxYcUQ&hl=en&sa=X&ved=0ahUKEwj8osetnKPMAhXhKcAKHTJ-BDIQ6AEIHjAA#v=onepage&q=INTENSLI%20EEGER&f=false

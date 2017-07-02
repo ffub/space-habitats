@@ -18,6 +18,7 @@ The maximum rate of rotation which is comfortable is around 2 per minute, which 
 The idea was to fill the interior with lunar regolith (the powdery surface covering on the moon) , acting as soil, some 2 metres depth would allow agriculture and even trees. Can plants grow in this? [It seems that they can](http://popsci.com/article/technology/crops-grow-fake-moon-and-mars-soil), although for decent growth humus (manure) and nitrogen fixing bacteria would need to be added and, of course, water. Mars regolith is even better.
 
 ![IslandThreeinterior.jpg](/uploads/IslandThreeinterior.jpg)
+*Source with permission: Frans Blok [http://www.3develop.nl/](http://www.3develop.nl/)*
 
 Power would be from solar panels, and with the sun shining 24/7, it should be cheap. Experience with satellites shows that abrasion from micrometeorites is containable, with a panel life of around 20 years. Early designs for habitats suggested transparent glass strips to let in sunlight, or by mirrors though end caps, but these would soon be made opaque through micrometeorite abrasion and weaken radiation protection. A simpler and better way is to pipe in sunlight through optic fibres, also makes it easy to set up an Earth type day with alternating light and dark periods.
 

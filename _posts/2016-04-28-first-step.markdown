@@ -14,6 +14,7 @@ Perfecting rockets is like perfecting sailing ships or the steam locomotive. The
 Even this proposed vehicle has propellant for 80% of its weight, and the payload is only 5% of the vehicle weight – and that is only to low earth orbit. Moreover Skylon (image below) would cost over $1 billion to develop – as much as a major airliner, but without the volume of sales to recoup the cost.
 ![skylon.jpg](/uploads/skylon.jpg)
 *Source: http://www.bbc.co.uk/news/science-environment-27591432*
+
 [spacex]: http://spaceflightnow.com/2015/12/22/watch-spacex-recover-booster/
 [skylon]: https://en.wikipedia.org/wiki/Skylon_(spacecraft)
 [ramjet]: http://www.reactionengines.co.uk/press_release.html

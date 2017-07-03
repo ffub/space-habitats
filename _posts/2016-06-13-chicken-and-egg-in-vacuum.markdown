@@ -13,8 +13,10 @@ Now the components and assembly of such a habitat, and transporting lunar regoli
 
 Space X claim that a fully reusable planned Mars mission system [would have launch costs as low as $140/kg](https://en.wikipedia.org/wiki/Interplanetary_Transport_System), in which case $100/kg or lower would be feasible to LEO. As mentioned before, however, the high risks would still be present for using rockets. It needs to be a long term objective (or even lower) just to get people long term into space, but then potential low cost solutions (such as the spaceplane/skyhook combination suggested in earlier posts) need high volume to be economic, to cover high capital costs, and you won’t get high volume until costs are low … classic “chicken and eg” dilemma. It would cost over $1 billion to develop Skylon, we are probably stuck with incremental improvements to rockets for now (such as recovering first and second stages).
 
-Not only are the above costs way too high, this approach does nothing to develop space manufacturing. There is a better route, to be discussed in the next post.
+Not only are the above costs and risks too high, this approach does nothing to develop space manufacturing. There is a better route, to be discussed in the next post.
 
 Note that cumulative costs (launch, assembly, maintenance) of the International Space Station is over $100 billion to date – and that only weighs 420 tons, and the living area is barely the size of a suburban house.
+
+There is another 
 
 

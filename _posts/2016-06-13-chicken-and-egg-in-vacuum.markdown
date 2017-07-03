@@ -17,6 +17,14 @@ Not only are the above costs and risks too high, this approach does nothing to d
 
 Note that cumulative costs (launch, assembly, maintenance) of the International Space Station is over $100 billion to date – and that only weighs 420 tons, and the living area is barely the size of a suburban house.
 
-There is another 
+There is another problem with LEO as a habitat location - [space junk](https://www.nasa.gov/mission_pages/station/news/orbital_debris.html). There are half a million objects circling this planet already, satellites have already been destroyed by collisions, and the problem is getting worse. Even a small habitat would be a much bigger target than a satellite. 
+
+The chart below shows the current distribution of objects in space. 
+![Space_Objects_Distribution_SOST_RSO_pop_scatterplot_0.png](/uploads/Space_Objects_Distribution_SOST_RSO_pop_scatterplot_0.png)
+*Source: aer.com*
+
+Most are clustered in the 7000-20,000 kms from earth range, within the protection of the outer Van Allen belt, but high enough to have long lived orbits; even so, the higher objects will spiral down over time. There is a smaller cluster at or just below 36,000 kms which is geostationary orbit, but they are exposed to more radiation (within the range of the outer Van Allen belt). 
+
+As long as radiation protection can be assured (see previous posts) then habitats are best placed beyond 36,000 kms to avoid the space junk problem, and will need to take measures to ensure that they don't create their own space junk.  
 
 

@@ -8,10 +8,12 @@ In the mid 70s  academic physicist Gerard O’Neill asked the question: how big
 * Spherical maximises the internal volume for a given weight, but artificial gravity tapers off from the “equator”.  A better shape is a cylinder, all the internal surface area can be maintained at constant gravity. This shape is the basis of the O’Neill cylinder shown below. They would need to be built in pairs with rotation in opposite directions to maintain a net zero angular momentum.
 
 ![O'Neill Cylinder](https://3.bp.blogspot.com/-rbFxnBQo_e8/VzxkDxFA8rI/AAAAAAAAAFo/0YrGR1hMWpkrPV2eEvqetAeNXizfVqFMQCLcB/s640/IslandThree2.jpg)
+*Source: https://commons.wikimedia.org/wiki/File:Spacecolony1.jpg*
 
 * A possible alternative is a torus.
 
 ![Stanford_torus_external_view_by_Don_Davis_AC76-0525.jpg](/uploads/Stanford_torus_external_view_by_Don_Davis_AC76-0525.jpg)
+Source: *https://commons.wikimedia.org/wiki/File:Stanford_torus_external_view_by_Don_Davis_AC76-0525.jpg*
 
 The maximum rate of rotation which is comfortable is around 2 per minute, which gives a centrifugal force of 1g at a radius of 225 metres.
 

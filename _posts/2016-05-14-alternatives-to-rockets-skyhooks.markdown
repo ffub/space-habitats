@@ -8,6 +8,7 @@ Things get much easier if a space elevator cable does not reach the ground, then
 The two options are a fixed tether ( basically, a short space elevator) along which the space ship would crawl up (how? Linear motors?). The alternative is a rotating tether, which would slingshot the spaceship into orbit, as shown in the diagram below:
 
 ![skyhook rotating.jpg](/uploads/skyhook%20rotating.jpg)
+*Source: https://skyhooksandspaceelevators.wordpress.com/2015/04/29/hello-world/*
 
 Studies by Boeing suggest that a rotating tether is more efficient than a fixed one, but this technology allows one to start small and then work out which is best in practice. With a rotating tether, Newton’s third law still applies, and the reaction to the slingshot would lower the anchoring satellite, which would need to lifted back up, possibly through [electrodynamics](http://www.space.com/521-electrodynamic-tethers-swing.html).
 

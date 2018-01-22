@@ -12,7 +12,14 @@ Several options have been suggested. The most publicised is the [Space Elevator]
 
 The alternative, feasible with current materials is the [Launch Loop](https://en.wikipedia.org/wiki/Launch_loop). 
 
-A long horizontal tube is supported at 80kms height above the ground by an iron rotor in a vacuum tube which is rotated magnetically. A launch vehicle on top of the tube is accelerated by drawing energy from the rotor. If the suspended tube is 2000kms long, then acceleration at 3g ( the maximum that is comfortable for untrained humans) will reach escape velocity to low Earth orbit.  
+A long horizontal tube is supported at 80kms height above the ground (above most of the atmosphere) by an iron rotor in a vacuum tube which is moved through the tube  magnetically. 
+
+![launch loop cross section.png](/uploads/launch%20loop%20cross%20section.png)
+Source: Keith Loftstrom
+
+A launch vehicle on top of the tube is accelerated by drawing energy from the rotor. If the suspended tube is 2000kms long, then acceleration at 3g ( the maximum that is comfortable for untrained humans) will reach escape velocity to low Earth orbit. 
+
+Technically the launch loop presents far fewer problems than a space elevator. The launch vehicle only needs fuel on board to manoeuvre in orbit, so potential launch costs are very low, not much more than an intercontinental flight today. This is particularly the case if spacecraft returning to Earth land on the launch loop, in the reverse  direction (west to east) regenerative braking would capture some of the kinetic energy of re-entry otherwise 
 
   
 However stringing a 2000kms long system, anchored under the sea – impervious to storms or collisions from stray ships? Any break, destroys it, not simple to patch up. Above all, it is kept up by a rotor travelling in a vacuum tube at faster than escape velocity. If anything goes wrong a huge amount of kinetic energy is released at one go. 

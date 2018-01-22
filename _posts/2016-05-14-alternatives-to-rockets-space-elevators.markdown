@@ -10,7 +10,12 @@ Several options have been suggested. The most publicised is the [Space Elevator]
 ![A space elevator](/uploads/space elevator.jpg)
 *Source: https://www.youtube.com/watch?v=_2M73aXuORI*
 
-The alternative, feasible with current materials is the [Launch Loop](https://en.wikipedia.org/wiki/Launch_loop). However stringing a 2000kms long system, anchored under the sea – impervious to storms or collisions from stray ships? Any break, destroys it, not simple to patch up. Above all, it is kept up by a rotor travelling in a vacuum tube at faster than escape velocity. If anything goes wrong a huge amount of kinetic energy is released at one go. 
+The alternative, feasible with current materials is the [Launch Loop](https://en.wikipedia.org/wiki/Launch_loop). 
+
+A long horizontal tube is supported at 80kms height above the ground by an iron rotor in a vacuum tube which is rotated magnetically. A launch vehicle on top of the tube is accelerated by drawing energy from the rotor. If the suspended tube is 2000kms long, then acceleration at 3g ( the maximum that is comfortable for untrained humans) will reach escape velocity to low Earth orbit.  
+
+  
+However stringing a 2000kms long system, anchored under the sea – impervious to storms or collisions from stray ships? Any break, destroys it, not simple to patch up. Above all, it is kept up by a rotor travelling in a vacuum tube at faster than escape velocity. If anything goes wrong a huge amount of kinetic energy is released at one go. 
 
 ![Lofstrom](/uploads/lofstrom.png)
 *Source: http://www.orionsarm.com/eg-article/4684534627504*

@@ -12,6 +12,9 @@ Several options have been suggested. The most publicised is the [Space Elevator]
 
 The alternative, feasible with current materials is the [Launch Loop](https://en.wikipedia.org/wiki/Launch_loop). 
 
+![Lofstrom](/uploads/lofstrom.png)
+*Source: http://www.orionsarm.com/eg-article/4684534627504*
+
 A long horizontal tube is supported at 80kms height above the ground (above most of the atmosphere) by an iron rotor in a vacuum tube which is moved through the tube  magnetically. 
 
 ![launch loop cross section.png](/uploads/launch%20loop%20cross%20section.png)
@@ -19,13 +22,13 @@ Source: Keith Loftstrom
 
 A launch vehicle on top of the tube is accelerated by drawing energy from the rotor. If the suspended tube is 2000kms long, then acceleration at 3g ( the maximum that is comfortable for untrained humans) will reach escape velocity to low Earth orbit. 
 
-Technically the launch loop presents far fewer problems than a space elevator. The launch vehicle only needs fuel on board to manoeuvre in orbit, so potential launch costs are very low, not much more than an intercontinental flight today. This is particularly the case if spacecraft returning to Earth land on the launch loop, in the reverse  direction (west to east) regenerative braking would capture some of the kinetic energy of re-entry otherwise 
+Technically the launch loop presents far fewer problems than a space elevator. The launch vehicle only needs fuel on board to manoeuvre in orbit, so potential launch costs are very low, not much more than an intercontinental flight today. This is particularly the case if spacecraft returning to Earth land on the launch loop, in the reverse  direction (west to east) regenerative braking would capture some of the kinetic energy of re-entry otherwise dissipated as heat. 
+ 
+However stringing a 2000kms long system, anchored under the sea – impervious to storms or collisions from stray ships? Any break, destroys it, not simple to patch up. Above all, it is kept up by a rotor travelling in a vacuum tube at faster than escape velocity. If anything goes wrong a huge amount of kinetic energy, equivalent to a small nuclear bomb, is released. It would be essential to ensure that a launch loop is fail safe - that not all that energy is released in one go if anything goes wrong. It should also be built over the sea, near the equator but away from the zones subject to tropical cyclones and ideally away from shipping lanes. Some suggested locations are shown in the picture below. 
+![launch loop locations.png](/uploads/launch%20loop%20locations.png)
+Source: Keith Lofstrom.
 
-  
-However stringing a 2000kms long system, anchored under the sea – impervious to storms or collisions from stray ships? Any break, destroys it, not simple to patch up. Above all, it is kept up by a rotor travelling in a vacuum tube at faster than escape velocity. If anything goes wrong a huge amount of kinetic energy is released at one go. 
-
-![Lofstrom](/uploads/lofstrom.png)
-*Source: http://www.orionsarm.com/eg-article/4684534627504*
+The capital costs for a launch loop would be substantial (not just the loop itself, but also ancillary power station, airport/spaceport, probably deep water artificial islands, maintenance facilties). It only makes sense with high volumes of traffic, not something that will happen anytime soon, but long term very interesting.  
 
 The other problem with these technologies is that, at first glance, they do not conform to the sensible path of developing a radical new technology – start modestly and build up as you learn from experience. Keith Lofstrom, the inventor of the Launch Loop concept, has suggested that [smaller scale loops could be developed to store electrical energy](http://launchloop.com/PowerLoop), an alternative to batteries or flywheels, potentially very useful with renewable energy which is intermittent. 
 

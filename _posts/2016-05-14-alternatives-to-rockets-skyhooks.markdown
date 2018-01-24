@@ -10,6 +10,13 @@ The two options are a fixed tether ( basically, a short space elevator) along wh
 ![skyhook rotating.jpg](/uploads/skyhook%20rotating.jpg)
 *Source: https://skyhooksandspaceelevators.wordpress.com/2015/04/29/hello-world/*
 
-Studies by Boeing suggest that a rotating tether is more efficient than a fixed one, but this technology allows one to start small and then work out which is best in practice. With a rotating tether, Newton’s third law still applies, and the reaction to the slingshot would lower the anchoring satellite, which would need to lifted back up, possibly through [electrodynamics](http://www.space.com/521-electrodynamic-tethers-swing.html).
+Studies by Boeing suggest that a rotating tether is more efficient than a fixed one, but this technology allows one to start small and then work out which is best in practice. With a rotating tether, Newton’s third law still applies, and the reaction to the slingshot would lower the anchoring satellite, which would need to lifted back up, possibly through [electrodynamics](http://www.space.com/521-electrodynamic-tethers-swing.html) utilising the Earth's magnetic field. 
 
 One could start connecting with a launch vehicle at a relatively high level and a connecting speed of Mach 10 or higher, then with experience and developing skyhook materials, making the cable longer and connecting at lower altitude and at lower speeds; Mach 5 or lower could be achieved with airbreathing scramjets, at much lower cost and more safely than with rockets. Eventually and gradually, learning as one goes along, skyhooks may evolve into fully fledged space elevators.
+
+There is an excellent video by Isaac Arthur [here
+](https://www.youtube.com/watch?v=TlpFzn_Y-F0) exploring various options for skyhooks. 
+
+I think that skyhooks are the sensible next step in getting beyond today's rockets. Fairly cheap in themselves, the main cost would be developing a craft to get up to the hook, but should not cost as much as Saturn V + space shuttle. Above all it is scalable, starting from today's low volume and building up.
+
+There are safety issues. The skyhook would be orbiting well below geosynchronous distance, and in an equatorial orbit would inevitably pass over land masses, notably Africa and South America. If it did fall out of orbit, measures would be needed to make sure it broke up into small enough pieces to burn up in the atmosphere, or could be safely steered into the ocean. 

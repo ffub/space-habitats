@@ -15,7 +15,7 @@ The alternative, feasible with current materials is the [Launch Loop](https://en
 ![Lofstrom](/uploads/lofstrom.png)
 *Source: http://www.orionsarm.com/eg-article/4684534627504*
 
-A long horizontal tube is supported at 80kms height above the ground (above most of the atmosphere) by an iron rotor in a vacuum tube which is moved through the tube  magnetically. 
+A long horizontal tube is supported at 80kms height above the ground (above most of the atmosphere) by a flexible iron rotor in a vacuum tube which is moved through the tube  magnetically. 
 
 ![launch loop cross section.png](/uploads/launch%20loop%20cross%20section.png)
 Source: Keith Loftstrom
@@ -26,7 +26,7 @@ Technically the launch loop presents far fewer problems than a space elevator. T
  
 However stringing a 2000kms long system, anchored under the sea – impervious to storms or collisions from stray ships? Any break, destroys it, not simple to patch up. Above all, it is kept up by a rotor travelling in a vacuum tube at faster than escape velocity. If anything goes wrong a huge amount of kinetic energy, equivalent to a small nuclear bomb, is released. It would be essential to ensure that a launch loop is fail safe - that not all that energy is released in one go if anything goes wrong. It should also be built over the sea, near the equator but away from the zones subject to tropical cyclones and ideally away from shipping lanes. Some suggested locations are shown in the picture below. 
 ![launch loop locations.png](/uploads/launch%20loop%20locations.png)
-Source: Keith Lofstrom.
+Source: Keith Lofstrom. The feathery blue and white lines are the tracks of tropical cyclones/hurricanes. 
 
 The capital costs for a launch loop would be substantial (not just the loop itself, but also ancillary power station, airport/spaceport, probably deep water artificial islands, maintenance facilties). It only makes sense with high volumes of traffic, not something that will happen anytime soon, but long term very interesting.  
 

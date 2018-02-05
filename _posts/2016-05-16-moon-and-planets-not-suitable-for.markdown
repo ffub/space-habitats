@@ -1,5 +1,5 @@
 ---
-title: 'Moon and Planets: Not Suitable for Settlement'
+title: 'Moon and Planets: Not Suitable for Settlement?'
 date: 2016-05-16 00:22:00 +01:00
 ---
 
@@ -7,7 +7,10 @@ date: 2016-05-16 00:22:00 +01:00
 
 Lots of exoplanets have been discovered recently, some of which are in the “habitable zone” where water remains liquid, and more will follow. But I said no warp drives – the so called [Alcubierre drive][alcubierre drive] shows a way around the Einsteinian limit of speed of light (by disorting space), but seems to need [exotic matter with negative mass][painful truth], which may not exist and is certainly unknown at present. So the nearby solar system it is.
 
-Attention focuses on the Moon and Mars. The former is airless, and latest indications are that although it may have some water at the poles, there is very little.  Mars has more water, it seems, but an atmosphere so thin it is almost a vacuum – and it is far away…
+Attention focuses on the Moon and Mars. 
+The former is airless, and latest indications are that although it may have some water at the poles, there is very little. The flat areas suitable for settlement total some 6 million sq.km, around two thirds of the area of the USA - useful, but not a game changer for human settlement. 
+
+Mars has more water, and an estimated 44 million sq.km of flat land - as large as Asia, where two thirds of mankind lives. Conveniently the Martian day is almost the same as Earth (although the year is much longer).  However the atmosphere is so thin it is almost a vacuum  – and it is far away, voyages from Earth would take months. 
 
 There is however an overriding objection to settlement in both locations – that is low gravity (17% of earth on the moon, 40% of earth on Mars). We don’t know yet the implications of living permanently in low gravity, but judging from the impact of prolonged weightlessness with astronauts, they are not likely to be good. Bone density dissolves (osteoporosis), heart expands, muscles waste away, blood pressure all over the place. On the International Space Station fit astronauts do a lot of special exercise to partly compensate for the effects of weightlessness, but one can hardly expect ordinary people to do that (how many people consistently work out at the gym, every day?). Moreover, anyone brought up in low gravity would find it difficult or well nigh impossible to adjust to 1g when visiting Earth. 
 

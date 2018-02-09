@@ -30,7 +30,7 @@ Source: Keith Lofstrom. The feathery blue and white lines are the tracks of trop
 
 The capital costs for a launch loop would be substantial (not just the loop itself, but also ancillary power station, airport/spaceport, probably deep water artificial islands, maintenance facilties). It only makes sense with high volumes of traffic, not something that will happen anytime soon, but long term very interesting.  
 
-An alternative to using a power loop is to use linear motors to provide the acceleration. This avoids the safety risks of the launch loop rotor, but linear motors would probably be heavier, more expensive, and require more maintenance. It has been proposed under the name of [Startram]:(https://www.space.com/38384-could-startram-revolutionize-space-travel.html)
+An alternative to using a power loop is to use linear motors to provide the acceleration. This avoids the safety risks of the launch loop rotor, but linear motors would probably be heavier, more expensive, and require more maintenance. It has been proposed under the name of [Startram](https://www.space.com/38384-could-startram-revolutionize-space-travel.html)
 
 ![Startramgeneration2.jpg](/uploads/Startramgeneration2.jpg) 
 

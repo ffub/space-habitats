@@ -14,8 +14,8 @@ In the mid 70s  academic physicist Gerard O’Neill asked the question: how big
 
 ![stanford torus 2.png](/uploads/stanford%20torus%202.png)
 
-Source: https://smpritchard.deviantart.com/art/Stanford-Torus-579632518
-
+*Source: https://smpritchard.deviantart.com/art/Stanford-Torus-579632518
+*
 The maximum rate of rotation which is comfortable is around 2 per minute, which gives a centrifugal force of 1g at a radius of 225 metres.
 
 The idea was to fill the interior with lunar regolith (the powdery surface covering on the moon) , acting as soil, some 2 metres depth would allow agriculture and even trees. Can plants grow in this? [It seems that they can](http://popsci.com/article/technology/crops-grow-fake-moon-and-mars-soil), although for decent growth humus (manure) and nitrogen fixing bacteria would need to be added and, of course, water. Mars regolith is even better.

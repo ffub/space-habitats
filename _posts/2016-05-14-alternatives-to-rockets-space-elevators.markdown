@@ -34,8 +34,6 @@ An alternative to using a power loop is to use linear motors to provide the acce
 
 ![Startramgeneration2.jpg](/uploads/Startramgeneration2.jpg) 
 
-
-
 The other problem with these technologies is that, at first glance, they do not conform to the sensible path of developing a radical new technology – start modestly and build up as you learn from experience. Keith Lofstrom, the inventor of the Launch Loop concept, has suggested that [smaller scale loops could be developed to store electrical energy](http://launchloop.com/PowerLoop), an alternative to batteries or flywheels, potentially very useful with renewable energy which is intermittent. 
 
 As regards the devlopment of Space Elevators, there is a potential technology which permits gradual development, and it is feasible, although the cost reduction potential is smaller, as discussed in the next post.

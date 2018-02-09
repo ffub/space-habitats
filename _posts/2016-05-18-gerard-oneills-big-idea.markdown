@@ -10,10 +10,11 @@ In the mid 70s  academic physicist Gerard O’Neill asked the question: how big
 ![O'Neill Cylinder](https://3.bp.blogspot.com/-rbFxnBQo_e8/VzxkDxFA8rI/AAAAAAAAAFo/0YrGR1hMWpkrPV2eEvqetAeNXizfVqFMQCLcB/s640/IslandThree2.jpg)
 *Source: https://commons.wikimedia.org/wiki/File:Spacecolony1.jpg*
 
-* A possible alternative is a torus.
+* A possible alternative is a torus. This may actually be more sensible as it has lower internal volume and thus air requirements. 
 
-![Stanford_torus_external_view_by_Don_Davis_AC76-0525.jpg](/uploads/Stanford_torus_external_view_by_Don_Davis_AC76-0525.jpg)
-Source: *https://commons.wikimedia.org/wiki/File:Stanford_torus_external_view_by_Don_Davis_AC76-0525.jpg*
+![stanford torus 2.png](/uploads/stanford%20torus%202.png)
+
+Source: https://smpritchard.deviantart.com/art/Stanford-Torus-579632518
 
 The maximum rate of rotation which is comfortable is around 2 per minute, which gives a centrifugal force of 1g at a radius of 225 metres.
 

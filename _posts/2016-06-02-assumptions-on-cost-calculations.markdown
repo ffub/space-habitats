@@ -11,11 +11,11 @@ A key assumption is that if the habitat is in deep space (e.g. at L4 or L5) a st
 
 **Plastic**: 20mm plate assumed for inner shell, pretty robust but it has to bear the mass of 2 metres of soil. Current market price for high density polyethylene assumed, $1400/ton.
 
-**Water**: a 30cm jacket between outer and inner shells (radiation protection); 25% by weight added to dry soil (typical value for agricultural soil); another 10% for other uses such as ponds. The cost of $40/ton is quite high compared to anything on Earth, as it needs to be sourced and transported from Mars.
+**Water**: a 30cm jacket between outer and inner shells (radiation protection); 25% by weight added to dry soil (typical value for agricultural soil); another 10% for other uses such as ponds. The cost of $40/ton is quite high compared to anything on Earth, as it needs to be sourced and transported from Mars or Ceres. 
 
 **Soil**: lunar regolith. Just scoop it up, it’s nearby, so should be quite cheap, $20/ton assumed. There is an awful lot of it needed, however…
 
-**Air**: quite expensive, as it is from processing Venusian atmosphere to provide both nitrogen and oxygen. I doubt that with transport and processing, it would cost much less than the assumption of $100/ton.
+**Air**: quite expensive, as it is from processing Venusian atmosphere to provide both nitrogen and oxygen. I doubt that with transport and processing, it would cost much less than the assumption of $100/ton. This may be on the pessimistic side, but then because of transport water may be more expensive than I have assumed. 
 
 ![Unit cost assmputions for raw materials](https://1.bp.blogspot.com/-NTSlOHdr_V8/V1C5N2a_6DI/AAAAAAAAAHc/U_2bz2_kk-k-xd4emTBI_UrlwW5zVxGAgCLcB/s1600/Slide3.JPG)
 

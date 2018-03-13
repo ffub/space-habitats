@@ -11,7 +11,7 @@ The total cost of the annular cylinder model is $136 billion. Yes, it is a lot. 
 - China in the past decade has spent some $300 billion building high speed railways
 - A new airport suggested by London’s former Mayor to replace Heathrow would cost $100 billion (which is why it won’t get built…)
 - The US defence budget in 2015 was $600 billion, much of it superfluous.
-- for this you get a self supporting settlement forup to 400,000 people. It would not cost a whole deal less on Earth, if built in one go.
+- for this you get a self supporting settlement for up to 400,000 people. It would not cost a whole deal less on Earth, if built in one go.
 - 1% of world GDP (that is, $780 billion) would cover 6 habitats a year. At a conservative 3% a year growth for the next fifty years, 1% of world GDP  in 2066  would cover the costs of building 25 habitats a year.
 
 The annular cylinder model costs per inhabitant are around 3 times the installed capital costs per US inhabitant for 500/sq.km. High, but not out of sight. At 1000/sq.km this reduces to 1.8 times,   in the same ballpark as capital costs per person in places like New York and its commuter heartland, or South East England, where residential and infrastructure costs are much higher than the national averages.

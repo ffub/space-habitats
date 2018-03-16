@@ -9,7 +9,7 @@ I am assuming that resources will be sourced as far as possible from nearby loca
 
 * Environmental: a wish to expand mankind’s resources, not deplete the Earth further.
 
-* Anything beyond Mars is expensive, long round trip and energy consumption. A possible exception to be discussed below is Ceres, as a possible source of water. 
+* Anything beyond Mars is expensive, long round trip and energy consumption. A possible exception to be discussed below is Ceres, as a source of water. 
 
 This section is based on current knowledge of Moon and Mars geology, which is still quite limited. The odds are that more resources will be discovered than are currently known.
 
@@ -31,9 +31,11 @@ Flue gases typically contain 10-15% CO2 while Venusian atmosphere is 97% CO2. Th
 
 **Water**
 
-Water is the big one. Humans live in a totally water dependent environment. In a reasonably humid environment, 25% or more of the weight of topsoil is water, plus lakes, streams, drinking and washing, and a suggested water jacket around a habitat as part of radiation protection. Water would be efficiently recycled, but there is an initial load required. There is plenty of water in the Solar System, but most of it is either on Earth (costly and environmentally damaging to source from) or in the outer regions, Asteroid Belt or beyond, requiring long and costly journeys. Several of the moons of Jupiter and Saturn have sub surface oceans which together contain more water than in the Earth's oceans - but they may also for that reason contain life. There is some on the Moon, but current evidence suggests not much. 
+Water is the big one. Humans live in a totally water dependent environment. In a reasonably humid environment, 25% or more of the weight of topsoil is water, plus lakes, streams, drinking and washing, and a suggested water jacket around a habitat as part of radiation protection. Water would be efficiently recycled, but there is a large initial load required. There is plenty of water in the Solar System, but most of it is either on Earth (costly and environmentally damaging to source from) or in the outer regions, Asteroid Belt or beyond, requiring long and costly journeys. Several of the moons of Jupiter and Saturn have sub surface oceans which together contain more water than in the Earth's oceans - but they may also for that reason contain life. There is some on the Moon, but current evidence suggests not much. 
 
 Fortunately there seems to be [masses of water on Mars][water-on-mars], in polar ice caps or subsurface. Where there is water, there may be life, and this may include microbial life on Mars, although we have not discovered any yet. If so, we would have to make sure that any water extraction would not damage it. As with oxygen, water is mainly an initial load, after a water cycle will maintain it within the habitat. 
+
+The other potential source is the planetoid Ceres, in the asteroid belt. Just below the surface is a deep layer of water ice, indeed [Ceres may contain more fresh water than Earth](https://www.space.com/1526-largest-asteroid-fresh-water-earth.html). But it is a long way away, around 400 million kms from Earth, compared to 140 million kms for Mars, although in both cases it varies a lot depending on the relative position of orbits around the Sun. A round trip by a (probably unmanned) tanker to collect water could take a year. So surely Mars wins hands down on costs? Not necessarily, because although Martian gravity is only 40% of Earth that still means an escape velocity of 5.0 km/sec (Earth 11.2, Moon 2.4) with attendant energy costs, while from little Ceres it is a mere 0.5 km/sec. The choice will depend on technology and logistics which cannot be determined fully at this stage, suffice it to say that there is plenty of water out there. 
 
 **Other elements**
 

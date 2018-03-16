@@ -53,7 +53,10 @@ Elements that we need in trace amounts are potassium, phosphorus, sodium and chl
 
 [Deep Space Industries ](http://deepspaceindustries.com/mining/) are promoting the idea of mining asteroids. Not out in the asteroid belt, but on the numerous asteroids with eccentric orbits which cross the Earth's orbit. These are of three types:
 - S type asteroids are stony and not of much interest
-- C type asteroids (carbonaceous) chondrites are more interesting. As well as carbon, they can contain up to 20% water, although 
+- C type asteroids (carbonaceous) chondrites are more interesting. As well as carbon, they can contain up to 20% water, although it may be locked up in hydrated minerals and need processing to release it. 
+- M type, the least common, contain iron, nickel and cobalt. 
+
+One wonders what the potential volume would be, given that most asteroids are too small to be worth mining. Logistics and low transport costs implies that they could however be the most cost effective source of water and possibly metals for the first habitats to be built, whereas large habitats would need hundreds of millions of tons of water which would probably need to be sourced from Mars or Ceres. 
 
 [ffc-process]: https://en.wikipedia.org/wiki/FFC_Cambridge_process
 [artificial-photosynthesis]: https://science.howstuffworks.com/environmental/green-tech/energy-production/artificial-photosynthesis.htm

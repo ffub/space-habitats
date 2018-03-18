@@ -8,9 +8,7 @@ OK, let’s see if we could start with a much smaller habitat, but still big eno
 
 If we use the same input costs as for the larger habitat in the previous section, total construction costs come to around $500 million. This seems suspicious low, and almost certainly is an underestimate. When the first few habitats are constructed space mining and manufacturing will be in early stages and costs will be higher than in the longer term. But even if costs are as much as ten times higher, that is not an enormous sum. 
 
-What if, however, the raw materials and parts are transported from Earth, instead of assembled in space? Apart from soil, that is, still assumed to be lunar regolith. The cost is a staggering $256 billion at $100/kg launch cost, and even at $50/kg (difficult to achieve unless a launch loop or similar is built) it costs $128 billion, almost as much as the habitat which houses 400 times as many people. 
-
-*Space habitats must be built in space, and thus cannot be built until there has been a lot of prior development of space mining and manufacturing. *
+What if, however, the raw materials and parts are transported from Earth, instead of assembled in space? Apart from soil, that is, still assumed to be lunar regolith. The cost is a staggering $256 billion at $100/kg launch cost, and even at $50/kg (difficult to achieve unless a launch loop or similar is built) it costs $128 billion, almost as much as the habitat which houses 400 times as many people. Space habitats must be built in space, and thus cannot be built until there has been a lot of prior development of space mining and manufacturing.
 
 Not only are the above costs too high, this approach does nothing to develop space manufacturing. 
 

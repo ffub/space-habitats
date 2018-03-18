@@ -1,5 +1,5 @@
 ---
-title: Starter Colony, and
+title: A Starter Habitat, and its Location
 date: 2016-06-13 15:22:00 +01:00
 ---
 
@@ -8,13 +8,19 @@ OK, let’s see if we could start with a much smaller habitat, but still big eno
 
 If we use the same input costs as for the larger habitat in the previous section, total construction costs come to around $500 million. This seems suspicious low, and almost certainly is an underestimate. When the first few habitats are constructed space mining and manufacturing will be in early stages and costs will be higher than in the longer term. But even if costs are as much as ten times higher, that is not an enormous sum. 
 
-What if, however, the raw materials and parts are transported from Earth, instead of assembled in space? Apart from soil, that is, still assumed to be lunar regolith. The cost is a staggering $256 billion at $100/kg launch cost, and even at $50/kg (difficult to achieve unless a launch loop or similar is built) it costs $128 billion
+What if, however, the raw materials and parts are transported from Earth, instead of assembled in space? Apart from soil, that is, still assumed to be lunar regolith. The cost is a staggering $256 billion at $100/kg launch cost, and even at $50/kg (difficult to achieve unless a launch loop or similar is built) it costs $128 billion, almost as much as the habitat which houses 400 times as many people. *Space habitats must be built on space, and thus cannot be built until there has been a lot of prior development of space mining and manufacturing.  *
 
-Not only are the above costs and too high, this approach does nothing to develop space manufacturing. 
+Not only are the above costs too high, this approach does nothing to develop space manufacturing. 
 
 Note that cumulative costs (launch, assembly, maintenance) of the International Space Station is over $100 billion to date – and that only weighs 420 tons, and the living area is barely the size of a suburban house.
 
-There is another problem with LEO as a habitat location - [space junk](https://www.nasa.gov/mission_pages/station/news/orbital_debris.html). There are half a million objects circling this planet already, satellites have already been destroyed by collisions, and the problem is getting worse. Even a small habitat would be a much bigger target than a satellite. 
+## Habitat Location
+It is tempting to put a habitat in LEO, where under the protection of the Van Allen Belts an artificial  magnetic field to protect from radiation would not be required. There are two problems, however. 
+
+The first is that it would spiral back towards Earth, although very slowly. 
+
+A more important problem is space junk.
+ [space junk](https://www.nasa.gov/mission_pages/station/news/orbital_debris.html). There are half a million objects circling this planet already, satellites have already been destroyed by collisions, and the problem is getting worse. Even a small habitat would be a much bigger target than a satellite. 
 
 The chart below shows the current distribution of objects in space. 
 ![Space_Objects_Distribution_SOST_RSO_pop_scatterplot_0.png](/uploads/Space_Objects_Distribution_SOST_RSO_pop_scatterplot_0.png)

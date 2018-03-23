@@ -10,3 +10,12 @@ The first case for it is moral, and related to the environment. While we may be 
 The second reason is that it provides an exciting objective. In the developed world, we have on average long, healthy prosperous and safe lives which our forebears could only dream of. Yet we get used to it all too quickly : “Is this it?” (China, that is your future too, in a generation or so). Boredom is the main enemy of peace and prosperity. Here is an outlet for heroism which does not involve adhering to a crazy murderous ideology or religious cult.
 
 A realisable objective is to campaign for 1% of GDP in developed countries to be spent on space development. It’s a lot less than is spent on defence, not to mention more frivolous consumer goods…
+
+A critical path for this objective must take into account that economics dictate that space habitats must be constructed in space, even small ones. That means a lot of investment in infrastructure and space manufacturing before any habitats can be built:
+- there is a lot that can be done first on Earth. Developing magnetic radiation protection, small scale ecosystems, builing a test Moon base with robots
+- better cheaper launch systems. For the foreseeable future skyhooks seem the best bet.
+- build a Moon base, then develop space manufacturing for metals, initially on the Moon, and to process CO2 from Venus
+- develop space ships purely to travel within space (can be far less powerful than from Earth launch) 
+
+A manned landing on Mars,currently a target, seems a disctraction from this
+Only then can the first habitat be built. 

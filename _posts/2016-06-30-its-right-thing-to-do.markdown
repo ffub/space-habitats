@@ -17,5 +17,6 @@ A critical path for this objective must take into account that economics dictate
 - build a Moon base, then develop space manufacturing for metals, initially on the Moon, and to process CO2 from Venus
 - develop space ships purely to travel within space (can be far less powerful than from Earth launch) 
 
-A manned landing on Mars,currently a target, seems a disctraction from this
+A manned landing on Mars,currently a target, seems a distraction from this. 
+
 Only then can the first habitat be built. 

@@ -14,3 +14,6 @@ Perfecting rockets is like perfecting sailing ships or the steam locomotive. The
 Even this proposed vehicle has propellant for 80% of its weight, and the payload is only 5% of the vehicle weight – and that is only to low earth orbit. Moreover Skylon (image below) would cost over $1 billion to develop – as much as a major airliner, but without the volume of sales to recoup the cost.
 ![skylon.jpg](/uploads/skylon.jpg)
 *Source: http://www.bbc.co.uk/news/science-environment-27591432*
+
+The economics of fully reusable space planes might be improved considerably with a two stage version. [Bristol Spaceplane's](http://bristolspaceplanes.com/projects/spacebus/) Spacebus proposal would have a first stage which would go up to Mach 4 with ramjets, then to Mach 6 with rockets, then release the second stage which would go to orbital velocity. A two stage space plane was the original plan for the space shuttle, a missed opportunity because of budget cuts, but it would be more efficient now with improved ramjet designs.
+

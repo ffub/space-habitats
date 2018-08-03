@@ -39,7 +39,7 @@ Flue gases typically contain 10-15% CO2 while Venusian atmosphere is 97% CO2. Th
 
 Water is the big one. Humans live in a totally water dependent environment. In a reasonably humid environment, 25% or more of the weight of topsoil is water, plus lakes, streams, drinking and washing, and a suggested water jacket around a habitat as part of radiation protection. Water would be efficiently recycled, but there is a large initial load required. There is plenty of water in the Solar System, but most of it is either on Earth (costly and environmentally damaging to source from) or in the outer regions, Asteroid Belt or beyond, requiring long and costly journeys. Several of the moons of Jupiter and Saturn have sub surface oceans which together contain more water than in the Earth's oceans - but they may also for that reason contain life. There is some on the Moon, but current evidence suggests not much. 
 
-Fortunately there seems to be [masses of water on Mars][water-on-mars], in polar ice caps or subsurface. Where there is water, there may be life, and this may include microbial life on Mars, although we have not discovered any yet. If so, we would have to make sure that any water extraction would not damage it. As with oxygen, water is mainly an initial load, after a water cycle will maintain it within the habitat. 
+Fortunately there seems to be [masses of water on Mars][water-on-mars], in polar ice caps or subsurface. Where there is water, there may be life, and this may include microbial life on Mars, although we have not discovered any yet. If so, we would have to make sure that any water extraction would not damage it. 
 
 The other potential source is the planetoid Ceres, in the asteroid belt. Just below the surface is a deep layer of water ice, indeed [Ceres may contain more fresh water than Earth](https://www.space.com/1526-largest-asteroid-fresh-water-earth.html). But it is a long way away, around 400 million kms from Earth, compared to 140 million kms for Mars, although in both cases it varies a lot depending on the relative position of orbits around the Sun. A round trip by a (probably unmanned) tanker to collect water could take a year. So surely Mars wins hands down on costs? Not necessarily, because although Martian gravity is only 40% of Earth that still means an escape velocity of 5.0 km/sec (Earth 11.2, Moon 2.4) with attendant energy costs, while from little Ceres it is a mere 0.5 km/sec. The choice will depend on technology and logistics which cannot be determined fully at this stage, suffice it to say that there is plenty of water out there. The other potential source is asteroid mining, discussed below. 
 
@@ -52,11 +52,13 @@ Elements that we need in trace amounts are potassium, phosphorus, sodium and chl
 ## Asteroid Mining 
 
 [Deep Space Industries ](http://deepspaceindustries.com/mining/) are promoting the idea of mining asteroids. Not out in the asteroid belt, but on the numerous asteroids with eccentric orbits which cross the Earth's orbit. These are of three types:
-- S type asteroids are stony and not of much interest
-- C type asteroids (carbonaceous) chondrites are more interesting. As well as carbon, they can contain up to 20% water, although it may be locked up in hydrated minerals and need processing to release it. 
+- S type asteroids are stony and the most common. They can contain some useful content of metallic minerals. 
+- C type asteroids (carbonaceous chondrites). As well as carbon, they can contain up to 20% water, although it may be locked up in hydrated minerals and need processing to release it. 
 - M type, the least common, contain iron, nickel and cobalt. 
 
-One wonders what the potential volume would be, given that most asteroids are too small to be worth mining. Logistics and low transport costs implies that they could however be the most cost effective source of water and possibly metals for the first habitats to be built, whereas large habitats would need hundreds of millions of tons of water which would probably need to be sourced from Mars or Ceres. 
+The economics of asteroid mining are potentially boosted by the prospect of good grades in S and especially M type asteroids of precious and platinum group metals, and rare earths. On Earth much of these are inaccessibly locked in the Earth's core.  
+
+One wonders what the potential volume would be, given that most near Earth asteroids are too small to be worth mining. Logistics and low transport costs implies that they could however be the most cost effective source of water and possibly metals for the first habitats to be built, whereas large habitats would need hundreds of millions of tons of water which would probably need to be sourced from Mars or Ceres. 
 
 [ffc-process]: https://en.wikipedia.org/wiki/FFC_Cambridge_process
 [artificial-photosynthesis]: https://science.howstuffworks.com/environmental/green-tech/energy-production/artificial-photosynthesis.htm

@@ -21,3 +21,5 @@ Even this proposed vehicle has propellant for 80% of its weight, and the payload
 The economics of fully reusable space planes might be improved considerably with a two stage version. [Bristol Spaceplane's](http://bristolspaceplanes.com/projects/spacebus/) Spacebus proposal would have a first stage which would go up to Mach 4 with ramjets, then to Mach 6 with rockets, then release the second stage which would go to orbital velocity. A two stage space plane was the original plan for the space shuttle, a missed opportunity because of budget cuts, but it would be more efficient now with improved ramjet designs.
 ![spacebus_1.jpg](/uploads/spacebus_1.jpg)
 *Source: http://bristolspaceplanes.com/projects/spacebus/*
+
+Environmentally, burning hydrogen and oxygen only produces water, the issue is how the hydrogen is produced. At present is currently made from natural gas, and thus does create carbon emissions, but the price of solar power is falling so fast that electrolysing water to produce hydrogen and oxygen may soon be cheaper and carbon free. As for ramjets, as with all aviation, one can only hope for the development of carbon neutral biokerosene. 

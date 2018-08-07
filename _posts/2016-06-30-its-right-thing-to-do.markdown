@@ -13,7 +13,7 @@ A realisable objective is to campaign for 1% of GDP in developed countries to be
 
 A critical path for this objective must take into account that economics dictate that space habitats must be constructed in space, even small ones. That means a lot of investment in infrastructure and space manufacturing before any habitats can be built:
 - there is a lot that can be done first on Earth. Developing magnetic radiation protection, small scale ecosystems, builing a test Moon base with robots
-- better cheaper launch systems. For the foreseeable future skyhooks seem the best bet.
+- better cheaper launch systems. For the foreseeable future, initially a fully reusable space plane then skyhooks seem the best bet. Longer term ground based systems such as the launch loop or skytram, but that requires a high volume to be feasible. 
 - build a Moon base, then develop space manufacturing for metals, initially on the Moon, and to process CO2 from Venus
 - develop space ships purely to travel within space (can be far less powerful than from Earth launch) 
 

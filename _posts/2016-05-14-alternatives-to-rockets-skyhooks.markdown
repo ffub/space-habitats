@@ -14,7 +14,7 @@ Studies by Boeing suggest that a rotating tether is more efficient than a fixed 
 
 You can even use a tether to brake a spacecraft returning to Earth. Assuming that the latter is approaching east to west (against the Earth's rotation) then a tether travelling west to east would catch it and reduce its velocity, imparting some of the craft's kinetic energy to the tether. 
 
-One could start connecting with a launch vehicle at a relatively high level and a connecting speed of Mach 10 or higher, then with experience and developing skyhook materials, making the cable longer and connecting at lower altitude and at lower speeds; Mach 5 or lower could be achieved with airbreathing scramjets, at much lower cost and more safely than with rockets. Eventually and gradually, learning as one goes along, skyhooks may evolve into fully fledged space elevators.
+One could start connecting with a launch vehicle at a relatively high level and a connecting speed of Mach 10 or higher, then with experience and developing skyhook materials, making the cable longer and connecting at lower altitude and at lower speeds; Mach 5 or lower could be achieved with airbreathing scramjets, at much lower cost and more safely than with rockets. Eventually and gradually, learning as one goes along, skyhooks may evolve into fully fledged space elevators. The development of space planes as described in a previous post and skyhooks are not mutually exclusive. 
 
 There is an excellent video by Isaac Arthur [here
 ](https://www.youtube.com/watch?v=TlpFzn_Y-F0) exploring various options for skyhooks. 

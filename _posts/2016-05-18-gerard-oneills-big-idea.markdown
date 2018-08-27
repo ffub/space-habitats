@@ -18,7 +18,9 @@ In the mid 70s  academic physicist Gerard O’Neill asked the question: how big
 
 The maximum rate of rotation which is comfortable is around 2 per minute, which gives a centrifugal force of 1g at a radius of 225 metres.
 
-The idea was to fill the interior with lunar regolith (the powdery surface covering on the moon) , acting as soil, some 2 metres depth would allow agriculture and even trees. Can plants grow in this? [It seems that they can](http://popsci.com/article/technology/crops-grow-fake-moon-and-mars-soil), although for decent growth humus (manure) and nitrogen fixing bacteria would need to be added and, of course, water. Mars regolith is even better.
+The idea was to fill the interior with lunar regolith (the powdery surface covering on the moon) , acting as soil, some 2 metres depth would allow agriculture and even trees. Can plants grow in this? [It seems that they can](http://popsci.com/article/technology/crops-grow-fake-moon-and-mars-soil), although for decent growth humus (manure) and nitrogen fixing bacteria would need to be added and, of course, water. Mars regolith is even better. In both cases the regolith is acidic and a basic additive is need to reduce the acidity (lime or ammonia solution, for example). 
+
+On Earth good agricultural areas have natural soil with nutrients, and unless irrigated, natural rainfall. None of these would be the case with an artificial habitats. In which case the most productive way to grow crops may be hydroponics, with no soil, or a limited depth of inert medium ( unfertilised regolith would fit) and nutrients supplied in the irrigating water. This would reduce the weight of regolith needed in the habitat, so an average 1 metre depth would suffice, or even less. While reducing the cost of transporting soil, it increases the capital cost of internal structures for agriculture, may increase water requirements, and is not suitable for all crops. Many trees have deep roots, but there are plenty of species with shallow roots for which 1 metre of soil suffices. 
 
 ![IslandThreeinterior.jpg](/uploads/IslandThreeinterior.jpg)
 *Source: Frans Blok [http://www.3develop.nl/](http://www.3develop.nl/)*

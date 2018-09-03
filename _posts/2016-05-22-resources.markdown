@@ -5,7 +5,7 @@ date: 2016-05-22 17:44:00 +01:00
 
 I am assuming that resources will be sourced as far as possible from nearby locations in the solar system (with the Moon as first choice) for three reasons:
 
-* The cost of getting anything in bulk up from Earth is very high
+* The cost of getting anything in bulk up from Earth is very high. An exception is air, discussed below. 
 
 * Environmental: a wish to expand mankind’s resources, not deplete the Earth further.
 
@@ -17,7 +17,7 @@ This section is based on current knowledge of Moon and Mars geology, which is st
 
 Lunar regolith - moondust - is plentiful and will serve as soil, it covers the lunar plains (mare) to a depth of 2-4 metres and other areas of the moon to 6-8 metre depth. 
 
-For building materials, you can make glass from regolith, and fused regolith makes a glassy building brick. Regolith plus lime and crushed lunar rock would probably make an acceptable concrete.
+For building materials, you can make glass from regolith, and fused regolith makes a glassy building brick. Regolith plus lime and crushed lunar rock would probably make an acceptable concrete, but fused regolith can replace concrete in many applications. 
 
 ## Metals
 

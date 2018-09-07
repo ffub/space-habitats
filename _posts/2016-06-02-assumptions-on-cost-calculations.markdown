@@ -17,6 +17,6 @@ A key assumption is that if the habitat is in deep space a strong magnetic field
 
 **Air**: Cheap ($20/ton), collected by skimming through the Earth's atmosphere. 
 
-![Unit cost assmputions for raw materials](https://1.bp.blogspot.com/-NTSlOHdr_V8/V1C5N2a_6DI/AAAAAAAAAHc/U_2bz2_kk-k-xd4emTBI_UrlwW5zVxGAgCLcB/s1600/Slide3.JPG)
+![Slide3.jpg](/uploads/Slide3.jpg)
 
 Then there is the cost of assembling the habitat. Yes, it is in space, not a great environment, but you are assembling fairly simple components (presumably using robots) and filling with soil, then rotating as you build to 1g (with such weight, acceleration would be very slow, but that does not matter). A 50% markup on raw material costs should suffice. Then I have added 200K per inhabitant to cover installed capital such as housing, living infrastructure, power through solar cells etc. – essentially US value of capital per person less the value of land.

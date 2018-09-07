@@ -9,13 +9,13 @@ A key assumption is that if the habitat is in deep space a strong magnetic field
 
 **Steel**: 10mm plate for the outer shell. I have assumed a price  a bit below current market prices on Earth, given that there is free metallic iron on the Moon, so $200/ton. For the annular cylinder model, I have also assumed steel for the “roof” shell, as it is the cheapest option. This needs to be airtight, but otherwise no structural load or radiation protection (it is entirely inside the cylinder) so have assumed 5mm plate (typical hot rolled steel sheet is 2-3mm gauge).
 
-**Plastic**: 20mm plate assumed for inner shell, pretty robust but it has to bear the mass of 2 metres of soil. Current market price for high density polyethylene assumed, $1400/ton.
+**Plastic**: 20mm plate assumed for inner shell, pretty robust but it has to bear the mass of a metre or more of soil. Current market price for high density polyethylene assumed, $1400/ton.
 
-**Water**: a 30cm jacket between outer and inner shells (radiation protection); 25% by weight added to dry soil (typical value for agricultural soil); another 10% for other uses such as ponds. The cost of $40/ton is quite high compared to anything on Earth, as it needs to be sourced and transported from Mars or Ceres. 
+**Water**: a 30cm jacket between outer and inner shells (radiation protection); 25% by weight added to dry soil (typical value for agricultural soil); another 10% for other uses such as ponds. The cost of $200/ton is high as it needs to be sourced and transported from Mars or Ceres. It may be cheaper processed from asteroid mining, but as previously mentioned the volumes of water available may be rather limited.  
 
-**Soil**: lunar regolith. Just scoop it up, it’s nearby, so should be quite cheap, $20/ton assumed. There is an awful lot of it needed, however…
+**Soil**: lunar regolith. Just scoop it up, it’s nearby, so should be quite cheap, $40/ton assumed. There is an awful lot of it needed, however…
 
-**Air**: quite expensive, as it is from processing Venusian atmosphere to provide both nitrogen and oxygen. I doubt that with transport and processing, it would cost much less than the assumption of $100/ton. This may be on the pessimistic side, but then because of transport water may be more expensive than I have assumed. 
+**Air**: Cheap, collected by skimming through the Earth's atmosphere. 
 
 ![Unit cost assmputions for raw materials](https://1.bp.blogspot.com/-NTSlOHdr_V8/V1C5N2a_6DI/AAAAAAAAAHc/U_2bz2_kk-k-xd4emTBI_UrlwW5zVxGAgCLcB/s1600/Slide3.JPG)
 

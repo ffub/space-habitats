@@ -13,9 +13,9 @@ A key assumption is that if the habitat is in deep space a strong magnetic field
 
 **Water**: a 30cm jacket between outer and inner shells (radiation protection); 25% by weight added to dry soil (typical value for agricultural soil); another 10% for other uses such as ponds. The cost of $200/ton is high as it needs to be sourced and transported from Mars or Ceres. It may be cheaper processed from asteroid mining, but as previously mentioned the volumes of water available may be rather limited.  
 
-**Soil**: lunar regolith. Just scoop it up, it’s nearby, so should be quite cheap, $40/ton assumed. There is an awful lot of it needed, however…
+**Soil**: lunar regolith. Just scoop it up, it’s nearby, so should be quite cheap, $40/ton assumed. 1 metre average depth assumed.  There is still an awful lot of it needed, however…
 
-**Air**: Cheap ($20/ton), collected by skimming through the Earth's atmosphere. 
+**Air**: I have assumed 80% of sea level air pressure on Earth ( that is, 0.8 bar) which is like living at 2000 metres altitude, which doesn’t cause people problems (at the 4000m height of Tibet or the Bolivian altiplano it is only 60% of sea level, yet that does cause altitude sickness). Cheap ($20/ton), collected by skimming through the Earth's atmosphere. 
 
 ![Slide3.jpg](/uploads/Slide3.jpg)
 

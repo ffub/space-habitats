@@ -27,9 +27,13 @@ For building materials, you can make glass from regolith, and fused regolith mak
 
 What the Moon is apparently short of is **base metals** (copper, lead, zinc). There are substitutes e.g. aluminium for electrical uses, nickel or chromium instead of zinc galvanising for corrosion protecting steel. There may be resources on Mars, we don’t really know yet.
 
-## Oxygen and organics
+## Air
 
-O’Neill suggested that oxygen could be liberated from the oxides in the lunar regolith. That is indeed the case, but an easier alternative may be the huge amount of carbon dioxide present in the dense Venusian atmosphere. Venus may have gravity close to Earth, but all a collector vessel has to do is skim through the atmosphere, collect the carbon dioxide (CO2) rich air (efficient storage would then freeze it, as dry ice) and skim out again – little extra energy (ΔV) would need to be expended.
+O’Neill suggested that oxygen could be liberated from the oxides in the lunar regolith, and that the habitat atmosphere could be pure oxygen. No - while OK in a medical emergency, [breathing pure oxygen is bad for health][oxygen] over a protracted period, and would be a huge fire risk. In any case, you need nitrogen (78% of Earth's atmosphere) to feed nitrogen-fixing bacteria in soil, essential for plant growth, and to produce artificial fertilisers.
+
+Here is one area where the resource could be collected from Earth, cheaply and ready mixed in the right proportion. The point is that a collector ship from space could skim through the atmosphere, collect the air, and come right out into space again without incurring the large energy penalty of taking off from the Earth's surface. But surely we should not deplete an essential part of the Earth's resources? Even if 10,000 large habitats were built (enough to house the whole of the world's existing population) the air extracted would account for 0.05% of the atmosphere, with no discernible effect on atmospheric pressure. 
+
+In any case, as we shall see, the cost of air is a very minor part of the cost of building a habitat. If we wish to insist on not taking any resources at all from Earth, oxygen could be extracted from lunar oxides, but an easier alternative may be the huge amount of carbon dioxide present in the dense Venusian atmosphere. Venus may have gravity close to Earth, but all a collector vessel has to do is skim through the atmosphere, collect the carbon dioxide (CO2) rich air (efficient storage would then freeze it, as dry ice) and skim out again – little extra energy (ΔV) would need to be expended.
 
 If you can separate the oxygen from CO2, you also get carbon or a carbon based organic (feedstock for plastics and other chemicals). You also get sulphur from the sulphuric acid in Venusian air. Splitting CO2 takes quite a bit of energy – yet plants do it all the time, through photosynthesis.  Natural photosynthesis (e.g using vats of algae) is slow and will not work with high concentrations of CO2. However [artificial photosynthesis is the subject of considerable research][artificial-photosynthesis], potentially to provide solar power and to treat CO2 rich flue gases from fossil fuel power stations. 
 
@@ -45,7 +49,7 @@ The other potential source is the planetoid Ceres, in the asteroid belt. Just be
 
 ## Other elements
 
-The most problematic essential element is nitrogen, 78% of an earth like atmosphere. While OK in a medical emergency, [breathing pure oxygen is bad for health][oxygen] over a protracted period, and would be a huge fire risk. In any case, you need nitrogen to feed nitrogen-fixing bacteria in soil, essential for plant growth, and to produce artificial fertilisers. As with water, nitrogen is plentiful on Earth and in the outer solar system, not on the Moon, and amounts on Mars (as either gas or nitrates) do not seem plentiful, according to current knowledge. The best source seems to be Venus – only 3% of the atmosphere, but such is the high pressure of the atmosphere, that  is more nitrogen than in the Earth’s atmosphere.
+The most problematic essential element is nitrogen, 78% of an earth like atmosphere.  As with water, nitrogen is plentiful on Earth and in the outer solar system, not on the Moon, and amounts on Mars (as either gas or nitrates) do not seem plentiful, according to current knowledge. The best source seems to be Venus – only 3% of the atmosphere, but such is the high pressure of the atmosphere, that  is more nitrogen than in the Earth’s atmosphere.
 
 Elements that we need in trace amounts are potassium, phosphorus, sodium and chlorine (the latter two as common salt, sodium chloride). Rare on the Moon, but seemingly plentiful on Mars.
 

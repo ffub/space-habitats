@@ -8,6 +8,6 @@ This document gives my thoughts on how and why we could build colonies in space,
 
 
 
-  Text ©Philip Tomlinson 2016. All rights reserved. 
+  Text ©Philip Tomlinson 2019. All rights reserved. 
 
 

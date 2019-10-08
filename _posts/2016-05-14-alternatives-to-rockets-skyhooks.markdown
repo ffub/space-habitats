@@ -19,6 +19,6 @@ One could start connecting with a launch vehicle at a relatively high level and 
 There is an excellent video by Isaac Arthur [here
 ](https://www.youtube.com/watch?v=TlpFzn_Y-F0) exploring various options for skyhooks. 
 
-I think that skyhooks are the sensible next step in getting beyond today's rockets. Fairly cheap in themselves, the main cost would be developing a craft to get up to the hook, but should not cost as much as Saturn V + space shuttle. Above all it is scalable, starting from today's low volume and building up.
+I think that skyhooks are the sensible next step in getting beyond today's rockets. Fairly cheap in themselves, the main cost would be developing a craft to get up to the hook, but should not cost as much as Saturn V + space shuttle. Above all it is scalable, starting from today's low volume and building up. More efficient technologies such as Startram or the Launchloop have huge capital costs and only make sense at high volumes of traffic to amortise the cost. 
 
 There are safety issues. The skyhook would be orbiting well below geosynchronous distance, and in an equatorial orbit would inevitably pass over land masses, notably Africa and South America. If it did fall out of orbit, measures would be needed to make sure it broke up into small enough pieces to burn up in the atmosphere, or could be safely steered into the ocean. 

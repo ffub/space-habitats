@@ -1,7 +1,7 @@
 ---
 title: Meteorites – And Security
 date: 2016-05-21 16:18:00.001000000 +01:00
-position: 7
+position: 8
 ---
 
 A habitat will be constantly bombarded by micrometeoroids. Although moving fast (around 30,000 kms/hr) they are very small (typical size range 10-100 microns) and will do no more than abrade the habitat outer shell. Experience with the ISS suggests that any damage is minor.

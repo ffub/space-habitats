@@ -1,7 +1,7 @@
 ---
 title: 'Moon Base: Self Replicating Robots and 3D printing'
 date: 2016-06-13 16:45:00 +01:00
-position: 8
+position: 9
 ---
 
 The key problem is moving resources which have an appreciable weight (that is, everything except humans, animal and plant life,  and information) from Earth. Obtaining resources, processing, and assembly has to be in space, in low or zero gravity. But how do you start that process, given that moving equipment to do so from Earth will be expensive?

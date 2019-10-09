@@ -1,7 +1,7 @@
 ---
 title: Small scale ecosystems
 date: 2016-05-28 21:31:00 +01:00
-position: 4
+position: 5
 ---
 
 The Earth is a huge and interconnected ecosystem, would something as small as a habitat provide a self sustaining ecosystem? The best known experiment is [Biosphere2](https://en.wikipedia.org/wiki/Biosphere_2), which attempted to create an entirely self sustaining closed environment.

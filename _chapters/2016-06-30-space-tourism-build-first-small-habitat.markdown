@@ -1,7 +1,7 @@
 ---
 title: Space tourism
 date: 2016-06-30 17:54:00 +01:00
-position: 12
+position: 13
 ---
 
 Build the first small habitat, and put it in low earth orbit: would there be a market for visitors? A once-in-a-lifetime trip to space, see the Earth from above, gambol away in a weightless play area (no refund if nauseous)… of course there would, it depends on the cost.Ignoring the cost of bed-and–board while you are there, or even the return flight (which has a minimal energy cost), here are the costs for a launch to LEO per passenger, for a 15 ton module carrying 30 passengers:

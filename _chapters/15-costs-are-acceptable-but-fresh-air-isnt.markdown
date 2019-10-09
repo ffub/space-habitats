@@ -1,6 +1,7 @@
 ---
 title: Costs are acceptable, but fresh air isn’t free
 date: 2016-06-13 14:30:00 +01:00
+position: 15
 ---
 
 ![habit costs 4 -8bd5bd.jpg](/uploads/habit%20costs%204%20-8bd5bd.jpg)

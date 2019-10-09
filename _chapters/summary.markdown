@@ -1,7 +1,7 @@
 ---
 title: Summary
 date: 2016-08-25 11:21:00 +01:00
-position: 0
+position: 22
 ---
 
 • Why should we colonise outer space? An insurance for  existential risks to mankind (nuclear war, climate change), to create new ecosphere instead of destroying it, to allow human population to expand while not pressing on land and resources – and because it is exciting.

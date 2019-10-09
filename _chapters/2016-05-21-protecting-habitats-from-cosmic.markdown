@@ -1,7 +1,7 @@
 ---
 title: Protecting Habitats from Cosmic Radiation
 date: 2016-05-21 16:11:00 +01:00
-position: 3
+position: 25
 ---
 
 The Earth’s magnetic field protects us from most cosmic and solar radiation, by the [Van Allen belts][van-allen-belts] which they generate. Outside these, protection is needed, otherwise the levels of exposure are dangerous.

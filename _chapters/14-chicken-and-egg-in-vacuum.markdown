@@ -1,6 +1,7 @@
 ---
 title: Chicken and Egg, and Habitat Location
 date: 2016-06-13 15:22:00 +01:00
+position: 4
 ---
 
 OK, let’s see if we could start with a much smaller habitat, but still big enough to grow most of its food. I assume a two cylinder habitat with 300 metre radius (just big enough to provide 1g artificial gravity without revolving too fast for comfort), and 500 metres long, which would house around 1,000 people. I am assuming that it would be assembled from parts and resources from earth, apart from lunar regolith for soil. I am also assuming that it is placed in low earth orbit, which reduces the need for radiation protection as it is within the Van Allen belts. A thin outer sheet of aluminium would do (as in the ISS) and an inner plastic plate.

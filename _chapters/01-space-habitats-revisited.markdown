@@ -1,6 +1,7 @@
 ---
 title: Space Habitats Revisited
 date: 2016-04-22 22:48:00 +01:00
+position: 12
 ---
 
 The futurism of the past (50s and 60s style) has us going to the moon for the weekend. In fact those humans who have been into orbit total barely 500, and no one has been to the moon since 1972. Space is not only dangerous, above all it is extremely expensive to get there – around $25,000 per every kilo carried into (geosynchronous) orbit. Space is useful (GPS, anyone?), but that satellites are economic owes more to the miniaturisation of electronics than any efficiency in getting there, which has hardly improved since the 1960s.

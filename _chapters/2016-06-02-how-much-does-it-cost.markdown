@@ -1,6 +1,7 @@
 ---
 title: How much does it cost?
 date: 2016-06-02 19:06:00 +01:00
+position: 5
 ---
 
 I hope that I have shown in previous posts that free standing orbital colonies are feasible for life, can be protected from radiation and meteorites, and the resources for them are available in the inner solar system. Even given that, the objection will be made that the cost of building such massive megastructures would be prohibitive.

@@ -1,6 +1,7 @@
 ---
 title: Resources
 date: 2016-05-22 17:44:00 +01:00
+position: 20
 ---
 
 I am assuming that resources will be sourced as far as possible from nearby locations in the solar system (with the Moon as first choice) for three reasons:

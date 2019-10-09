@@ -1,6 +1,7 @@
 ---
 title: 'Alternatives to Rockets: Space Elevators, Launch Loops, Startram'
 date: 2016-05-14 18:35:00 +01:00
+position: 16
 ---
 
 The only way to get launch costs down to low levels for transporting people, is to impart a large part, or even all, of the kinetic energy from a fixed point on earth or in orbit, to avoid moving all that fuel.

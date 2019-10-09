@@ -12,7 +12,7 @@ Several options have been suggested. The most publicised is the [Space Elevator]
 ![A space elevator](/uploads/space elevator.jpg)
 *Source: https://www.youtube.com/watch?v=_2M73aXuORI*
 
-**Launch Loop **
+**Launch Loop**
 To reach escape velocity, you need a means to accelerate a launch vehicle rapidly - but if you are doing from the ground there is another problem. A vehicle trying to reach escape velocity would simply burn up due to air resistance. One way to deal with this is to do so on a track supported above most of the atmosphere. 
 
 One idea feasible with current materials is the [Launch Loop](https://en.wikipedia.org/wiki/Launch_loop). 
@@ -39,7 +39,7 @@ There are two major problems with the launch loop concept. Any break, destroys i
 
 The capital costs for a launch loop would be substantial (not just the loop itself, but also ancillary power station, airport/spaceport, if over sea probably deep water artificial islands, maintenance facilities). It only makes sense with high volumes of traffic, not something that will happen anytime soon, but long term very interesting. 
  
-**Startram **
+**Startram**
 An alternative to using a power loop is to use linear motors to provide the acceleration. This avoids the safety risks of the launch loop rotor, but linear motors would probably be heavier, more expensive, and require more maintenance. It has been proposed under the name of [Startram](https://www.space.com/38384-could-startram-revolutionize-space-travel.html). A long vacuum tube on the desert floor accelerates a launch vehicle with linear motors to beyond escape velocity. The last few kilometres are elevated by magnetic repulsion to ~20 kms. The tube is kept at vacuum with magneto hydrodynamic pumps which allows the exit to remain open. At 20kms height there is still enough air to provide an immediate 3g deceleration, but this only lasts a brief time. 
 
 The vacuum tube would have to be very large and heavy, and can magnetic repulsion as suggested be enough to lift the tube towards the end? If it does not then the exit from the tube is low enough to be supported by physical columns, perhaps aided by the pressure from a magnetically thrusted stream of iron particles (the [space fountain ](https://www.orionsarm.com/eg-article/478838bfb7f74)concept)

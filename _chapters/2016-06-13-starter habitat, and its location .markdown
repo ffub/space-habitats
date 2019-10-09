@@ -1,7 +1,7 @@
 ---
 title: A Starter Habitat, and its Location
 date: 2016-06-13 15:22:00 +01:00
-position: 15
+position: 16
 ---
 
 OK, let’s see if we could start with a much smaller habitat, but still big enough to grow its food. around 1,000 people. I have assumed a single torus with a larger radius of 500 metres, an inner radius (to the torus itself)of 200 metres, and that half the internal area of the torus is habitable.

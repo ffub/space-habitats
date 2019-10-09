@@ -1,7 +1,7 @@
 ---
 title: Gerard O’Neill’s Big Idea
 date: 2016-05-18 14:09:00 +01:00
-position: 18
+position: 5
 ---
 
 In the mid 70s  academic physicist Gerard O’Neill asked the question: how big could you build [free standing structures in space](http://www.popularmechanics.com/space/deep-space/a11351/how-we-could-actually-build-a-space-colony-17268252/), which you could rotate to provide artifical gravity (through centrifugal force)? The answer, it seems, is [surprisingly large](http://cosmoquest.org/forum/archive/index.php/t-111850.html); using steel, up to 6kms radius. Hence came the idea of O’Neill style habitats. These can be of several shapes:

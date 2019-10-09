@@ -4,7 +4,7 @@ layout: default
 
 {{content}}
 
-{% assign chapters = site.chapters %}
+{% assign chapters = site.chapters | sort:"position" %}
 
 <h2>Chapters</h2>
 

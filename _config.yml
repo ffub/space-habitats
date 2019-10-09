@@ -20,6 +20,12 @@ defaults:
     permalink: "/posts/:title/"
 - scope:
     path: ''
+    type: chapters
+  values:
+    layout: post
+    permalink: "/chapter/:title/"
+- scope:
+    path: ''
     type: pages
   values:
     layout: page

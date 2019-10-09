@@ -4,13 +4,8 @@ layout: default
 
 {{content}}
 
-{% assign recent = site.posts | limit: 1 %}
-{% assign posts = site.posts | sort: date %}
+{% assign chapters = site.chapters %}
 
-<h2>Most recent post</h2>
+<h2>Chapters</h2>
 
-{% include post_list.html collection=recent limit=1 reversed=true %}
-
-<h2>All posts</h2>
-
-{% include post_list.html collection=posts %}
+{% include post_list.html collection=chapters %}

@@ -1,7 +1,7 @@
 ---
 title: 'Moon and Planets: Not Suitable for Settlement'
 date: 2016-05-16 00:22:00 +01:00
-position: 0
+position: 1
 ---
 
 ![Planets](https://3.bp.blogspot.com/-gUOtHxMBqj8/V1BNj-6arlI/AAAAAAAAAGg/UphaVMOgyYwZRyst-SWjduMKPeBZ1MmYQCLcB/s1600/comparativeplanetsbig.jpg)

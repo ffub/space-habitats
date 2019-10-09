@@ -1,7 +1,7 @@
 ---
 title: National Prestige – and Military Strategy
 date: 2016-06-30 20:11:00 +01:00
-position: 20
+position: 19
 ---
 
 Recently many of the developments in rocketry and launches have been from private entrepreneurs. These, however, have been funded by billionaires who made their money elsewhere (Elon Musk, Jeff Bezos, Richard Branson) and they are mainly selling into the well established communications satellites market – and the means to establish this were initially developed by states, with prestige and military considerations uppermost, in the same way that the original internet was developed by the US military.

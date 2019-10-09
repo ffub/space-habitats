@@ -1,7 +1,6 @@
 ---
 title: What would motivate the development of space colonies?
 date: 2016-06-14 18:58:00 +01:00
-position: 27
 ---
 
 I would argue that orbital colonies are feasible, given current technology and physics, or reasonable extensions of it; and that the long run cost is not overly expensive.

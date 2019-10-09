@@ -1,7 +1,6 @@
 ---
 title: Protecting Habitats from Cosmic Radiation
 date: 2016-05-21 16:11:00 +01:00
-position: 25
 ---
 
 The Earth’s magnetic field protects us from most cosmic and solar radiation, by the [Van Allen belts][van-allen-belts] which they generate. Outside these, protection is needed, otherwise the levels of exposure are dangerous.
@@ -14,11 +13,11 @@ In low Earth orbit, within the Van Allen belts, little protection is required, a
 
 In deep space, fully exposed to the solar wind and cosmic flux, however, it is another matter. [This paper](http://space.alglobus.net/papers/RadiationPaper.pdf) suggests that 7 tons per square metre of water/plastic shielding is required in deep space. This is many times the mass of a habitat and would make its construction economically (and possibly technically) unviable. 
 
-Fortunately there is a way round this - the possibility of creating a magnetic field around  a habitat, a [miniature version of the Van Allen belts][mini-van-allen-belts].
+Fortunately there is a way round this - the possibility of creating a magnetic field around  a habitat, a [miniature version of the Van Allen belts][mini-van-allen-belts]. Both the European space agency and NASA are studying this. 
 
 If we are to create habitats in deep space, it is essential to resolve this, otherwise one is restricted to LEO. However, the prospects are promising, as the technology of superconducting magnets has advanced considerably, and without it a safe mission to Mars seems impossible.  
 
-Of course one could avoid the problem by [putting habitats in LEO](http://space.alglobus.net/papers/Easy.pdf). It also makes it much easier to get to them. Indeed it might the best site for early habitats. However space in Low Earth Orbit is already getting crowded, especially in the ideal orbits around the Equator, so it limits the potential for expansion. Also habitats in LEO will tend to slowly spiral back towards Earth. To push them back would require enormous effort for large habitat - and the larger the habitat, the more stable the ecosystem, and the more diverse and interesting both human life and nature will tend to be. 
+Of course one could avoid the problem by [putting habitats in LEO](http://space.alglobus.net/papers/Easy.pdf). It also makes it much easier to get to them. Indeed it might the best site for early habitats. However space in Low Earth Orbit is already getting crowded, especially in the ideal orbits around the Equator, so it limits the potential for expansion and there is a considerable risk from space junk. Also habitats in LEO will tend to slowly spiral back towards Earth. To push them back would require enormous effort for large habitat - and the larger the habitat, the more stable the ecosystem, and the more diverse and interesting both human life and nature will tend to be. 
 
 
 [van-allen-belts]: https://en.wikipedia.org/wiki/Van_Allen_radiation_belt

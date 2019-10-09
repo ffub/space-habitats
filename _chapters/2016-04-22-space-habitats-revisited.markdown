@@ -1,7 +1,6 @@
 ---
 title: Space Habitats Revisited
 date: 2016-04-22 22:48:00 +01:00
-position: 32
 ---
 
 The futurism of the past (50s and 60s style) has us going to the moon for the weekend. In fact those humans who have been into orbit total barely 500, and no one has been to the moon since 1972. Space is not only dangerous, above all it is extremely expensive to get there – around $25,000 per every kilo carried into (geosynchronous) orbit. Space is useful (GPS, anyone?), but that satellites are economic owes more to the miniaturisation of electronics than any efficiency in getting there, which has hardly improved since the 1960s.
@@ -14,7 +13,7 @@ Yet space travel not only has a romantic appeal (“the last frontier”), if fe
 
 - There are too many hairless apes on this planet already, but the ideal demographics is a birth rate which leads to a stable or slowly increasing population. In the long term, we can reduce the earth’s population while still expanding the human population. Thus there is a moral dimension, we can help Gaia recover from our impact while expanding her domain.
 
-- It’s exciting. Forget all the bad news in the media, in reality life in the developed world for many is safe and boring, and there is little scope for heroism. Plenty of people would want to do it.
+- It’s exciting. Forget all the bad news in the media, in reality life in the developed world for many is safe and boring, and there is little scope for heroism. Plenty of people would want to do it. It gives the opportunity to experiment with new communities in a way which is scarcely possible on Earth any more. 
 
 The succeeding posts will outline ideas on a feasible path to colonise space. I will only employ known physics, and reasonable projections of current technology. So no warp drives, and no super-intelligent robots (in any case, this is about getting humans into space, not AIs). 
 

@@ -1,7 +1,7 @@
 ---
 title: Assumptions on cost calculations
 date: 2016-06-02 23:55:00 +01:00
-position: 4
+position: 5
 ---
 
 One has no idea what long term future inflation and productivity gains will be, so unit costs are based on current (Earth) prices and costs unless there are specific reasons otherwise, as is the case with air and water.

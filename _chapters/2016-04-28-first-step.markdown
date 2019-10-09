@@ -1,7 +1,7 @@
 ---
 title: 'First Step: Cost Effective Launch'
 date: 2016-04-28 23:55:00 +01:00
-position: 15
+position: 1
 ---
 
 The biggest single problem is escaping Earth’s gravity at reasonable cost. To get to low Earth orbit you need to travel at 28,600 kms/hour, and 50% faster to escape the Earth’s gravity completely. So far we have used rockets, which means that virtually all the energy at lift off is for transporting the fuel (payload is only around 4% of total weight) and its casings/engines – and then it’s thrown away after a single use. [Space X have managed to recover a first stage rocket](http://spaceflightnow.com/2015/12/22/watch-spacex-recover-booster/), and reckon it can be reused up to 10 times. That does bring down the cost, but even with complete first and second stage reuse it will still be high.

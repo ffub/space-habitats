@@ -1,7 +1,7 @@
 ---
 title: Costs per head are acceptable, at high density
 date: 2016-06-13 14:30:00 +01:00
-position: 13
+position: 14
 ---
 
 The costs of the annular cylinder model are about the same as the simple cylinder completely filled with air, as the cost of the extra steel (annular model)  is about the same as that of the extra air (simple model).  I think, however, that the annular cylinder is preferable on environmental grounds. The annular version uses 19% of the air of the air volume of the simple model, and we should not deplete the Earth's atmosphere more than is necessary. 

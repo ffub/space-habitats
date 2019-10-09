@@ -1,7 +1,7 @@
 ---
 title: 'Alternatives to Rockets: Skyhooks'
 date: 2016-05-14 18:51:00 +01:00
-position: 3
+position: 2
 ---
 
 Things get much easier if a space elevator cable does not reach the ground, then it can be constructed with current materials. This is the [Skyhook](https://en.wikipedia.org/wiki/Skyhook_(structure)) concept. A supersonic vehicle (wholly or partly air breathing) would connect with a tether hanging down from a satellite  (connecting at a speed of Mach 10 or higher? It's relative velocity that matters, and in flight refuelling at high speed is well proven).

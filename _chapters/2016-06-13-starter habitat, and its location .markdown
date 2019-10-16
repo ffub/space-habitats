@@ -4,7 +4,7 @@ date: 2016-06-13 15:22:00 +01:00
 position: 14
 ---
 
-So, in the long run, one could build habitats for around the cost of real estate in the big city, and one could get there for the cost of an intercontinental flight. So colonising space is economically viable. The problem is how to get there. 
+So, in the long run, one could build habitats for around the cost of real estate in the big city, and one could get there for the cost of an intercontinental flight. So colonising space is economically viable. The problem is how to get to that stage. 
 
 OK, let’s see if we could start with a much smaller habitat, but still big enough to grow its food. around 1,000 people. I have assumed a single torus with a larger radius of 500 metres, an inner radius (to the torus itself)of 200 metres, and that half the internal area of the torus is habitable.
 ![starter habitat.png](/uploads/starter%20habitat.png)

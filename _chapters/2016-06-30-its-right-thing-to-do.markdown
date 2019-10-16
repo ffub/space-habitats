@@ -8,7 +8,7 @@ position: 20
 2. Build a Moon base, and initially the means to scoop up and launch regolith, for soil on the first habitat. 
 3. Build a starter habitat, with materials from Earth except for soil.
 4. Mine iron and aluminium ore from the Moon, send to the starter habitat, which equipment is installed to smelt them to steel and aluminium and convert to sheets. Then build tankers to fetch water from Ceres, or nearby comets and asteroids. 
-5. Then build a first large scale habitat. Over time space built components will replace those brought from Earth 
+5. Then build a first large scale habitat. Over time space built components will replace those brought from Earth. 
 
 
 

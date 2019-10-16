@@ -24,6 +24,7 @@ position: 21
 
 * I have shown some calculations below which estimate construction costs for a large scale habitat, capable of supporting 200,000 people with space for agriculture and recreation. They are very rough and ready, but give an order of magnitude – about 2-3 times the average installed capital costs per head of a developed country, comparable to that of major metropolitan areas on Earth. 
 
-• The cost calculations, however, assume an established infrastructure of manufacturing and transport in space. 
+• The cost calculations, however, assume an established infrastructure of manufacturing and transport in space. That is not realistic at first, so the first habitat will need to have most of its materials transported from Earth. That is why startram or similar, with launch costs as low as $25/kg, needs to be built. 
 
 • Some income may be made in the development  from solar power from space, from space tourism and technical spin offs, but it is doubtful that any financial return on investment in space colonies for a very long time – so state funding would be needed. Why, however, would states do this? Prestige, military strategy – and environmental pressure. A realisable objective is to campaign for 1% of GDP in developed countries to be spent on space development. It’s a lot less than is spent on defence
+• Building a low cost launch system, a Moon base, a starter habitat and then a full size one could be done for around $300 billion, less than half the US annual military budget. It could be done in a generation, if any nation had the will to do so. 

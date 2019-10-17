@@ -10,14 +10,6 @@ position: 20
 4. Mine iron and aluminium ore from the Moon, send to the starter habitat, on which equipment is installed to smelt them to steel and aluminium and convert to sheets. Then build tankers to fetch water from Ceres, or nearby comets and asteroids. 
 5. Then build a first large scale habitat. Over time space built components will replace those brought from Earth. 
 
-
-
-
-
-
-
-
-
 A manned landing on Mars,currently a target, seems a distraction from this. 
 
 

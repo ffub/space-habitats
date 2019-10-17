@@ -8,4 +8,4 @@ Build the first small habitat, and put it in low earth orbit: would there be a m
 
 ![Costs per passenger from Earth to Low Earth Orbit](https://2.bp.blogspot.com/-Xw2SjmP-LOw/V3VOup5vaKI/AAAAAAAAAJU/Jd9dDywV94kO-jnmgNj3CsaZRagyq0pWgCLcB/s640/space%2Bhabitat%2Bblog%2Bchart%2BLEO%2Bcost.jpg)
 
- Only at $100/kg value does it become a market beyond the very rich few, and even so, not mass tourism (one has to get launch costs down eventually to that sort of value or lower, to enable emigration to space anyway).
+ Only at $100/kg value does it become a market beyond the very rich few, and even so, not mass tourism (one has to get launch costs down eventually to that sort of value or lower, to enable emigration to space anyway). At $25/kg, as claimed by Startram, it could become a significant market. 

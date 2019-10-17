@@ -16,7 +16,7 @@ What if, however, the raw materials and parts are transported from Earth, instea
 Note that cumulative costs (launch, assembly, maintenance) of the International Space Station is over $100 billion to date – and that only weighs 420 tons, and the living area is barely the size of a suburban house.
 
 ## Habitat Location
-It is tempting to put a habitat in LEO, where under the protection of the Van Allen Belts an artificial  magnetic field to protect from radiation would not be required. There are two problems, however. 
+It is tempting to put habitats in LEO, where under the protection of the Van Allen Belts an artificial  magnetic field to protect from radiation would not be required. There are two problems, however. 
 
 The first is that it would spiral back towards Earth, although very slowly. 
 
@@ -28,6 +28,10 @@ The chart below shows the current distribution of objects in space.
 
 Most are clustered in the 7000-20,000 kms from earth range, within the protection of the outer Van Allen belt, but high enough to have long lived orbits; even so, the higher objects will spiral down over time. There is a smaller cluster at or just below 36,000 kms which is geostationary orbit, but they are exposed to more radiation (within the range of the outer Van Allen belt). 
 
-As long as radiation protection can be assured (see previous posts) then habitats are best placed beyond 36,000 kms to avoid the space junk problem, and will need to take measures to ensure that they don't create their own space junk.  
+As long as radiation protection can be assured (see previous posts) then habitats are best placed beyond 36,000 kms to avoid the space junk problem, and will need to take measures to ensure that they don't create their own space junk. 
+
+Nevertheless it makes sense to build the first habitat at LEO. That way launch from Earth requires a lower velocity than into deep space. Human passengers would transfer to a deep space vehicle which would not need to be as powerful, and could rotate to provide artificial gravity. If a Startram type launcher is used from Earth, goods destined for the Moon or deep space could be accelerated at faster then 3g in unmanned vehicles so making the trip in one go. 
+
+When larger habitats are built, the starter habitat could then become purely a transit station.  
 
 

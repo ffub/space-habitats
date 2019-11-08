@@ -4,7 +4,7 @@ date: 2016-05-22 17:44:00 +01:00
 position: 8
 ---
 
-I am assuming that resources will be sourced as far as possible from nearby locations in the solar system (with the Moon as first choice) for three reasons:
+I am assuming that resources will be sourced as far as possible from nearby locations in the solar system for three reasons:
 
 * The cost of getting anything in bulk up from Earth is very high. An exception is air, discussed below. 
 
@@ -12,21 +12,25 @@ I am assuming that resources will be sourced as far as possible from nearby loca
 
 * Anything beyond Mars is expensive, long round trip and energy consumption. A possible exception to be discussed below is Ceres, as a source of water. 
 
-This section is based on current knowledge of Moon and Mars geology, which is still quite limited. The odds are that more resources will be discovered than are currently known.
+This section is based on current knowledge of extra-terrestrial resources and geology, which is still quite limited. The odds are that more resources will be discovered than are currently known.
 
-## Soil and Building Materials
+## Moon,Mars-or Asteroids? 
+The obvious source of most resources is the Moon, with Mars as second choice - but there is an economic problem. With its lower gravity, the escape velocity 0f 2.4 kms/s is only one fifth that of Earth. A linear motor launch ramp would only need to be 100kms long to reach escape velocity at 3(Earth)g, could be even shorter for transport of materials only. Indeed Gerard O'Neill suggested a prototype version of this to transport lunar regolith (the powdery surface covering of the Moon) as soil which he called a "mass driver". In the airless atmosphere no expensive vacuum tube is required, as with Startram on Earth. 
+ 
+It would be easy to get launch costs down to only 10% of Startram on Earth. Assume that they can be got down to only 5% of Startram costs, that is $2.2/kg. Fine for people and high value goods, but at $2200/ton that is still way too much for the transport of bulk goods; by way of comparison a bulk carrier ship can transport stuff around the world for $100/ton or less. If this seems surprising, note that the Moon's escape velocity is still five times the speed of sound on Earth (Mach 5). Being further away and with a higher escape velocity, Mars is even worse. 
 
-Lunar regolith - moondust - is plentiful and will serve as soil, it covers the lunar plains (mare) to a depth of 2-4 metres and other areas of the moon to 6-8 metre depth. 
+Is there a potentially much lower cost alternative? Yes- **[asteroid mining](https://en.wikipedia.org/wiki/Asteroid_mining)**.
+There are 20,000 known near Earth asteroids, which cross the Earth's orbit or come close - and that is only the one's we can detect. Given that asteroid 100m long will contain a million tons or more of material, there are billions of tons of resources which can be mined. The key thing is that the amount of energy needed to deflect and adjust an approaching asteroid (or its products from mining) to the orbit and speed of space habitat should be quite small, so costs can be kept to the hundreds of dollars, not thousands. 
 
-For building materials, you can make glass from regolith, and fused regolith makes a glassy building brick. Regolith plus lime and crushed lunar rock would probably make an acceptable concrete, but fused regolith can replace concrete in many applications. 
+These are of three types:
+- S type asteroids are stony and the most common. They can contain some useful content of metallic minerals, and some contain clay which would make good soil and building materials for bricks. Silicates 
+- C type asteroids (carbonaceous chondrites). As well as carbon, they can contain up to 20% water, although it may be locked up in hydrated minerals and need processing to release it. 
+- M type, the least common, contain iron, nickel and cobalt. 
 
-## Metals
+The economics of asteroid mining are potentially boosted by the prospect of good grades in S and especially M type asteroids of precious and platinum group metals, and rare earths. On Earth much of these are inaccessibly locked in the Earth's core.  
 
-**Iron**: actually easier than on Earth. There appears to a lot of metallic iron in the lunar regolith, apparently of meteoric origin. Just sort through regolith with a magnet. If not, 15% of lunar maria (the flat regions) are iron oxide by weight, similar to iron ores on earth. Nickel and chromium ores seem plentiful as well, to make steel alloys and stainless steel. Lunar maria rocks contain a high concentration of manganese, the main alloying element used in steelmaking.
+ 
 
-**Aluminium**: the usual ore on Earth (bauxite, essentially aluminium oxide) is not present on the moon. However anorthite (calcium aluminium silicate) is one of the most common rocks on the Moon. It can be smelted to its constituent metals using the [FFC Cambridge Process][ffc-process], or some variant. As a by product, you also get calcium (to make lime, and hence mortar and concrete) and silicon (for solar panels). Calcium is an excellent electrical conductor, cannot be used on earth because it oxidises rapidly, but could work in the vacuum of space. The Cambridge process is under development to find a better way to produce titanium metal, where earth ores are plentiful, but the current process is expensive and polluting. Ilmenite, the main titanium ore, has been found on the Moon.
-
-What the Moon is apparently short of is **base metals** (copper, lead, zinc). There are substitutes e.g. aluminium for electrical uses, nickel or chromium instead of zinc galvanising for corrosion protecting steel. There may be resources on Mars, we don’t really know yet.
 
 ## Air
 

@@ -42,6 +42,8 @@ In any case, as we shall see, the cost of air is a  minor part of the cost of bu
 It should be noted that the air needed is almost all for the initial load for the habitat - with enough plant life inside it, normal photosynthesis should maintain all or nearly all the oxygen content of the atmosphere. 
 
 Carbon dioxide levels could be higher than on Earth, say 1000 parts per million compared to the current level of 400 ppm on Earth; on the latter higher CO2 is a bad idea, leading to global warming, but with the temperature artificially controlled on a habitat, higher CO2 levels would boost plant growth but still not affect the breathability of the air.  
+**Soil**
+The main thing is you don't need much of it, at least to grow crops. The sensible way on a habitat is hydroponics, water trickling at just the right amount through troughs with suitable nutrients. Productivity is very high, but on Earth it's expensive. In space, it's the reverse, as the infrastructure can be built in when constructing the habitat. Some crops e.g. root crops need supporting soil, and for parks and woodland; it will be the by product of asteroid mining, especially from S type asteroids.   
 
 **Water**
 

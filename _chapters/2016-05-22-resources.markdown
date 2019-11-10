@@ -23,7 +23,7 @@ Is there a potentially much lower cost alternative? Yes- **[asteroid mining](htt
 There are 20,000 known near Earth asteroids, which cross the Earth's orbit or come close - and that is only the one's we can detect. Given that asteroid 100m long will contain a million tons or more of material, there are billions of tons of resources which can be mined. The key thing is that the amount of energy needed to deflect and adjust an approaching asteroid (or its products from mining) to the orbit and speed of space habitat should be quite small, so costs can be kept to the hundreds of dollars, not thousands. 
 
 These are of three types:
-- S type asteroids are stony and the most common. They can contain some useful content of metallic minerals, and some contain clay which would make good soil and building materials for bricks. Silicates 
+- S type asteroids are stony and the most common. They can contain some useful content of metallic minerals, and some contain clay which would make good soil and building materials for bricks. 
 - C type asteroids (carbonaceous chondrites). As well as carbon, they can contain up to 20% water, although it may be locked up in hydrated minerals and need processing to release it. 
 - M type, the least common, contain iron, nickel and cobalt. 
 
@@ -32,7 +32,6 @@ Essentially asteroid mining can supply all the metals needed, although some proc
 The economics of asteroid mining are potentially boosted by the prospect of good grades in S and especially M type asteroids of precious and platinum group metals, and rare earths. On Earth much of these are inaccessibly locked in the Earth's core.  
 
 ## Air
-
 O’Neill suggested that oxygen could be liberated from the oxides in the lunar regolith, and that the habitat atmosphere could be pure oxygen. No - while OK in a medical emergency, [breathing pure oxygen is bad for health][oxygen] over a protracted period, and would be a huge fire risk. In any case, you need nitrogen (78% of Earth's atmosphere) to feed nitrogen-fixing bacteria in soil, essential for plant growth, and to produce artificial fertilisers.
 
 Here is one area where the resource could be collected from Earth, cheaply and ready mixed in the right proportion. The point is that a collector ship from space could skim through the atmosphere, collect the air, and come right out into space again without incurring the large energy penalty of taking off from the Earth's surface. But surely we should not deplete an essential part of the Earth's resources? Even if 10,000 large habitats were built (enough to house the whole of the world's existing population) the air extracted would account for 0.05% of the atmosphere, with no discernible effect on atmospheric pressure. 
@@ -42,11 +41,11 @@ In any case, as we shall see, the cost of air is a  minor part of the cost of bu
 It should be noted that the air needed is almost all for the initial load for the habitat - with enough plant life inside it, normal photosynthesis should maintain all or nearly all the oxygen content of the atmosphere. 
 
 Carbon dioxide levels could be higher than on Earth, say 1000 parts per million compared to the current level of 400 ppm on Earth; on the latter higher CO2 is a bad idea, leading to global warming, but with the temperature artificially controlled on a habitat, higher CO2 levels would boost plant growth but still not affect the breathability of the air.  
+
 **Soil**
 The main thing is you don't need much of it, at least to grow crops. The sensible way on a habitat is hydroponics, water trickling at just the right amount through troughs with suitable nutrients. Productivity is very high, but on Earth it's expensive. In space, it's the reverse, as the infrastructure can be built in when constructing the habitat. Some crops e.g. root crops need supporting soil, and for parks and woodland; it will be the by product of asteroid mining, especially from S type asteroids.   
 
 **Water**
-
 Water is the big one. Humans live in a totally water dependent environment. In a reasonably humid environment, 25% or more of the weight of topsoil is water, plus lakes, streams, drinking and washing, and a suggested water jacket around a habitat as part of radiation protection. Water would be efficiently recycled, but there is a large initial load required. There is plenty of water in the Solar System, but most of it is either on Earth  or in the outer regions, Asteroid Belt or beyond, requiring long and costly journeys. Several of the moons of Jupiter and Saturn have sub surface oceans which together contain more water than in the Earth's oceans - but they may also for that reason contain life. There is some on the Moon, but current evidence suggests not much and that would be needed for any Moon bases and mining camps. 
 
 If the water is taken from the Earth's oceans the impact on total volumes would be even lower in percentage terms than for air (taken from melting ice caps, would not even need to be desalinated). Unfortunately a collector ship would need to go to sea level, and slowly; so the heavy energy penalty of escaping the Earth's gravity could not be avoided, unlike collecting air. 
@@ -54,8 +53,6 @@ If the water is taken from the Earth's oceans the impact on total volumes would 
 The main source for early settlements would be C type near Earth asteroids, although it is in the form of hydrated minerals and would need to be processed. In the longer term, there may not be enough for the large needs of new habitats. 
 
 The other potential source is the planetoid Ceres, in the asteroid belt. Just below the surface is a deep layer of water ice, indeed [Ceres may contain more fresh water than Earth](https://www.space.com/1526-largest-asteroid-fresh-water-earth.html). But it is a long way away, around 400 million kms from Earth, compared to 140 million kms for Mars, although in both cases it varies a lot depending on the relative position of orbits around the Sun. A round trip by a (probably unmanned) tanker to collect water could take a year. So surely the cost is too high, as would be bringing water from Mars? Not necessarily, because although Martian gravity is only 40% of Earth that still means an escape velocity of 5.0 km/sec (Earth 11.2, Moon 2.4) with attendant energy costs, while from little Ceres it is a mere 0.5 km/sec. The choice will depend on technology and logistics which cannot be determined fully at this stage, suffice it to say that there is plenty of water out there. 
-
-
 
 
 

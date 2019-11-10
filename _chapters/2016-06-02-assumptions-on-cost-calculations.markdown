@@ -12,7 +12,7 @@ A key assumption is that if the habitat is in deep space a strong magnetic field
 
 **Plastic**: 20mm plate assumed for inner shell, pretty robust but it has to bear the weight of at least two storey buildings. For radiation protection and modest cost, high density polythene is ideal, but it does not have high tensile strength or resistance to surface wear and tear. So I have assumed a coating of sintered asteroid rock, and probably a supporting steel frame. So a relatively high cost of $1200/ton is assumed. 
 
-**Water**: a 30cm jacket between outer and inner shells (radiation protection) another 10% for other uses such as ponds and for consumption in industrial uses. The cost of $300/ton is high as it probably needs to be sourced and transported from Ceres. It may be cheaper processed from asteroid mining, but as previously mentioned the volumes of water available may be rather limited.  
+**Water**: a 30cm jacket between outer and inner shells (radiation protection) another 10% for other uses such as ponds and for consumption in industrial uses. The cost of $300/ton is high as part of it probably needs to be sourced and transported from Ceres. It may be cheaper processed from asteroid mining, but as previously mentioned the volumes of water available may be rather limited. Water turns out to be the biggest cost element.   
 
 **Soil**: A by product of asteroid mining, which would otherwise be dumped and so cause environmental issues (more potential space junk). So a fairly nominal price of $50/ton assumed. If most agriculture is hydroponic not much is needed, 20cms coverage throughout the habitat assumed for costing, in practice it would be more unevenly distributed. 
 

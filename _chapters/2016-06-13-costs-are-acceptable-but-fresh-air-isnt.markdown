@@ -8,15 +8,10 @@ The costs of the annular cylinder model are about the same as the simple cylinde
 
 ![space habitat blog chart 4.jpg](/uploads/space%20habitat%20blog%20chart%204.jpg)
 
-The total cost of the annular cylinder model (excluding installed capital) is around $160 billion. Yes, it is a lot (note how essential but expensive water is).  To put that into perspective:
+The total cost of the annular cylinder model (excluding installed capital) is around $68 billion. For this you get a self supporting settlement for up to 100,000 people. It would not cost a whole deal less on Earth, if built in one go.
+- 1% of world GDP (that is, $780 billion) would cover 8 habitats a year. At a conservative 3% a year growth for the next fifty years, 1% of world GDP  in 2066  would cover the costs of building 40 habitats a year.
 
-- China in the past decade has spent some $300 billion building high speed railways
-- A new airport suggested by London’s former Mayor to replace Heathrow would cost $100 billion (which is why it won’t get built…)
-- The US defence budget in 2015 was $600 billion, much of it superfluous.
-- for this you get a self supporting settlement for up to 400,000 people. It would not cost a whole deal less on Earth, if built in one go.
-- 1% of world GDP (that is, $780 billion) would cover 4 habitats a year. At a conservative 3% a year growth for the next fifty years, 1% of world GDP  in 2066  would cover the costs of building 20 habitats a year.
-
-The annular cylinder model costs per inhabitant are around 4 times the installed capital costs per US inhabitant for 500/sq.km. At 1000/sq.km this reduces to 2.5 times, in the same ballpark as capital costs per person in places like New York and its commuter heartland, or South East England, where residential and infrastructure costs are much higher than the national averages. Moreover this will fall over time as the initial cost of habitat construction is depreciated; if depreciated (straight line) over 25 years the cost of the habitat would be a charge of $17K per inhabitant. 
+The annular cylinder model costs per inhabitant are around 3.7 times the installed capital costs per US inhabitant for 500/sq.km. At 1000/sq.km this reduces to 2.2 times, in the same ballpark as capital costs per person in developed country big cities, where residential and infrastructure costs are higher than the national averages. Moreover this will fall over time as the initial cost of habitat construction is depreciated, but the initial costs
 
 ![space habitat blog chart 5-908894.jpg](/uploads/space%20habitat%20blog%20chart%205-908894.jpg)
 

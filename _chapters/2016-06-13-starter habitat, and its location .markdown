@@ -30,7 +30,7 @@ Most are clustered in the 7000-20,000 kms from earth range, within the protectio
 
 As long as radiation protection can be assured (see previous posts) then habitats are best placed beyond 36,000 kms to avoid the space junk problem, and will need to take measures to ensure that they don't create their own space junk. 
 
-Nevertheless it makes sense to build the first habitat at LEO. That way launch from Earth requires a lower velocity than into deep space. Human passengers would transfer to a deep space vehicle which would not need to be as powerful, and could rotate to provide artificial gravity. If a Startram type launcher is used from Earth, goods destined for the Moon or deep space could be accelerated at faster then 3g in unmanned vehicles so making the trip in one go. 
+Nevertheless it makes sense to build the first habitat at LEO. That way launch from Earth requires a lower velocity than into deep space. Human passengers would transfer to a deep space vehicle which would not need to be as powerful, and could rotate to provide artificial gravity. If a Startram type launcher is used from Earth, goods destined for deep space could be accelerated at faster then 3g in unmanned vehicles so making the trip in one go. 
 
 When larger habitats are built, the starter habitat could then become purely a transit station.  
 

@@ -12,4 +12,4 @@ I have compared the construction cost per inhabitant with the installed total ca
 
 For reasons I will explain later, I have done two calculations. One is a simple cylinder completely filled with air. The other is an “annular cylinder” with an inner surface 300 m within the outer shell acting as a roof, and only the living space between inner and outer shells is filled with air (doubtless one could paint the roof sky blue, and add fluffy white clouds…). The assumptions about the construction of the annular cylinder variant are shown in the diagram below, and explained further and costed in the next post.
 
-![Slide2.jpg](/uploads/Slide2.jpg)
+[Slide2o.JPG](/uploads/Slide2o.JPG)

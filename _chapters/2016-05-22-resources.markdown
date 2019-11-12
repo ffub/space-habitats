@@ -53,6 +53,7 @@ If the water is taken from the Earth's oceans the impact on total volumes would 
 The main source for early settlements would be C type near Earth asteroids, although it is in the form of hydrated minerals and would need to be processed. In the longer term, there may not be enough for the large needs of new habitats. 
 
 The other potential source is the planetoid Ceres, in the asteroid belt. Just below the surface is a deep layer of water ice, indeed [Ceres may contain more fresh water than Earth](https://www.space.com/1526-largest-asteroid-fresh-water-earth.html). But it is a long way away, around 400 million kms from Earth, compared to 140 million kms for Mars, although in both cases it varies a lot depending on the relative position of orbits around the Sun. A round trip by a (probably unmanned) tanker to collect water could take a year. So surely the cost is too high, as would be bringing water from Mars? Not necessarily, because although Martian gravity is only 40% of Earth that still means an escape velocity of 5.0 km/sec (Earth 11.2, Moon 2.4) with attendant energy costs, while from little Ceres it is a mere 0.5 km/sec. The choice will depend on technology and logistics which cannot be determined fully at this stage, suffice it to say that there is plenty of water out there. 
+![ceres.jpg](/uploads/ceres.jpg)
 
 
 

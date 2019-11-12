@@ -18,6 +18,6 @@ A key assumption is that if the habitat is in deep space a strong magnetic field
 
 **Air**: I have assumed 80% of sea level air pressure on Earth ( that is, 0.8 bar) which is like living at 2000 metres altitude, which doesn’t cause people problems (at the 4000m height of Tibet or the Bolivian altiplano it is only 60% of sea level, yet that does cause altitude sickness). Cheap ($40/ton), collected by skimming through the Earth's atmosphere. 
 
-![Slide3.jpg](/uploads/Slide3.jpg)
+![raw mat prices.png](/uploads/raw%20mat%20prices.png)
 
 Then there is the cost of assembling the habitat. Yes, it is in space, not a great environment, but you are assembling fairly simple components (presumably using robots), then rotating as you build to 1g (with such weight, acceleration would be very slow, but that does not matter). A 30% markup on raw material costs should suffice, given that the latter a are fairly high. Then I have added 200K per inhabitant to cover installed capital such as housing, living infrastructure, power through solar cells etc. – essentially US value of capital per person less the value of land.

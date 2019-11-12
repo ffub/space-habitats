@@ -21,7 +21,7 @@ The maximum rate of rotation which is comfortable is around 2 per minute, which 
 
 O'Neill's idea was to fill the interior with lunar regolith (the powdery surface covering on the moon) , acting as soil, some 2 metres depth would allow agriculture and even trees. As discussed in subsequent posts, this is probitively expensive and in any case unnecessary. 
 
-On Earth good agricultural areas have natural soil with nutrients, and unless irrigated, natural rainfall. None of these would be the case with an artificial habitats. The most productive way to grow most crops would be hydroponics, with no soil, or a limited depth of inert medium ( unfertilised regolith would fit) and nutrients supplied in the irrigating water. 
+On Earth good agricultural areas have natural soil with nutrients, and unless irrigated, natural rainfall. None of these would be the case with an artificial habitats. The most productive way to grow most crops would be hydroponics, with no soil, or a limited depth of inert medium (crushed rock from asteroid mining would do)and nutrients supplied in the irrigating water. 
 
 ![IslandThreeinterior.jpg](/uploads/IslandThreeinterior.jpg)
 *Source: Frans Blok [http://www.3develop.nl/](http://www.3develop.nl/)*

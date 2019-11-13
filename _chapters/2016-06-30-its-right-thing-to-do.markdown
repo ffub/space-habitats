@@ -12,12 +12,13 @@ position: 20
 A manned landing on Mars,or a Moonbase, currently targets, are expensive distractions from this. 
 
 The total cost (ballpark, remember) is around $350 billion, as shown in the chart below. 
+![total costs.png](/uploads/total%20costs.png)
 To put this in perspective:
-Apollo programme (in 2019 $)       $290bn 
-US military budget 2019            $673bn 
-Chinese investment in high         $300bn 
-speed rail to date 
-Global investment in airports      $319 bn 
-2018-2020
+* Apollo programme (in 2019 $)       $290bn 
+* US military budget 2019            $673bn 
+* Chinese investment in high         $300bn 
+  speed rail to date 
+* Global investment in airports      $319 bn 
+ 2018-2020
 
 

@@ -7,6 +7,11 @@ position: 12
 One has no idea what long term future inflation and productivity gains will be, so unit costs are based on current (Earth) prices and costs unless there are specific reasons otherwise, as is the case with water.
 
 A key assumption is that if the habitat is in deep space a strong magnetic field is generated around each cylinder to deflect solar wind and cosmic rays. The water jacket and plastic shell assumed are secondary protection, similar to the absorptive role of the atmosphere on Earth. If the habitat is in Low Earth Orbit, no magnetic field would be required. 
+I have made some assumptions below for the construction of the sheel, although it may (probably would) work out a bit different in practice. The shell would need to balance the following:
+- minimising cost
+- radiation protection
+- corrosion resistance, to exposure to both water and air
+- enough tensile strength to support at least two storey buildings, with the added stress of the centrifugal force from the rotation of the habitat 
 
 **Steel**: 10mm plate for the outer shell. It is assumed to be sourced from M type near earth asteroids where the metal does not need smelting from ore but processing costs to steel plate may be higher than on Earth, and a corrosion resistant coating due to contact with water jacket. For the annular cylinder model, I have also assumed steel for the “roof” shell, as it is the cheapest option. This needs to be airtight, but otherwise no structural load or radiation protection (it is entirely inside the cylinder) so have assumed 5mm plate (typical hot rolled steel sheet is 2-3mm gauge). On average I have assumed $750/ton for steel, 50% higher than a current Earth price. 
 
